@@ -1,0 +1,11 @@
+{
+  "id": "33e108aa-2c3a-45cc-9f9d-df1e16fa703a",
+  "name": "SMPL_query_1",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false
+  },
+  "dataSourceId": "43636496-358c-4e10-abc7-afdc3762c3be",
+  "appVersionId": "d4ed48b7-daea-4091-9819-f86dd1e84c81"
+}
