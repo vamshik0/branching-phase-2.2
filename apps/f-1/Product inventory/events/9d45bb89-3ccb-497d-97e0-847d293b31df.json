@@ -1,0 +1,14 @@
+{
+  "id": "9d45bb89-3ccb-497d-97e0-847d293b31df",
+  "name": "onDataQueryFailure",
+  "index": 3,
+  "event": {
+    "eventId": "onDataQueryFailure",
+    "message": "Unable to update product details. Please review and try again.",
+    "actionId": "show-alert",
+    "alertType": "warning"
+  },
+  "sourceId": "4f3e0b7a-c636-4f68-a8ff-c6b93dab806e",
+  "target": "data_query",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "e93b72cb-4c65-4ec6-ab76-85c3321a6cbb",
+  "name": "dropdown1",
+  "type": "DropDown",
+  "pageId": "b8b12223-955e-4668-bb36-b98e001c984f",
+  "parent": "9de1aaf1-c054-402d-8806-c5b791b316f3",
+  "properties": {
+    "advanced": {
+      "value": "{{false}}"
+    },
+    "schema": {
+      "value": "{{[\t{label: 'One',value: 1,disable: false,visible: true,default: true},{label: 'Two',value: 2,disable: false,visible: true},{label: 'Three',value: 3,disable: false,visible: true}\t]}}"
+    },
+    "label": {
+      "value": ""
+    },
+    "value": {
+      "value": "{{}}"
+    },
+    "values": {
+      "value": "{{['In stock', 'Yet to receive']}}"
+    },
+    "display_values": {
+      "value": "{{['In stock', 'Yet to receive']}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "placeholder": {
+      "value": "Select status..."
+    }
+  },
+  "general": {},
+  "styles": {
+    "borderRadius": {
+      "value": "5"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "justifyContent": {
+      "value": "left"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "customRule": {
+      "value": null
+    }
+  },
+  "layouts": [
+    {
+      "id": "59132592-bb16-495c-996a-0e520f105212",
+      "type": "desktop",
+      "top": 140.00004959106445,
+      "left": 29,
+      "width": 12.000000000000002,
+      "height": 40,
+      "componentId": "e93b72cb-4c65-4ec6-ab76-85c3321a6cbb",
+      "dimensionUnit": "count"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "41c77080-c8bb-42ed-b76c-c70045f63df6",
+  "name": "getProductStats",
+  "options": {
+    "code": "totalQty = 0;\ninStockQty = 0;\nlowInStock = 0;\noutOfStock = 0;\nyetToReceive = 0;\n\nqueries.getProducts.data.forEach((product) => {\n  totalQty += Number(product.quantity);\n  inStockQty += product.status == \"In stock\" ? Number(product.quantity) : 0;\n  yetToReceive += product.status == \"Yet to receive\" ? Number(product.quantity) : 0;\n  lowInStock += Number(product.quantity) <= 10 && Number(product.quantity) > 0 ? 1 : 0;\n  outOfStock += Number(product.quantity) == 0 ? 1 : 0;\n});\n\nreturn {\n  quantityInTotal: totalQty,\n  quantityInStock: inStockQty,\n  quantityYetToReceive: yetToReceive,\n  lowInStock: lowInStock,\n  outOfStock: outOfStock,\n};",
+    "hasParamSupport": true,
+    "parameters": []
+  },
+  "dataSourceId": "5395100c-580d-41e8-8254-f7a83767e263",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

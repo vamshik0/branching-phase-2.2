@@ -1,0 +1,39 @@
+{
+  "id": "ae49888b-0626-4781-af6c-71aee0e37a76",
+  "dataSourceId": "43636496-358c-4e10-abc7-afdc3762c3be",
+  "environmentId": "890814ef-23cd-4ce2-8071-9ecfdb8a97f6",
+  "options": {
+    "host": {
+      "credential_id": "1d729ae4-2c98-474f-a926-f8d4f3821e80",
+      "encrypted": true
+    },
+    "port": {
+      "credential_id": "f18732b2-8de4-4209-a9a0-6f3d2f09359f",
+      "encrypted": true
+    },
+    "database": {
+      "value": "sample_db",
+      "encrypted": false
+    },
+    "username": {
+      "credential_id": "5e4ceb60-8759-4858-8aa3-a9919fa8b7d5",
+      "encrypted": true
+    },
+    "password": {
+      "credential_id": "95899bac-8ddb-4ce2-bdbb-b9b1729dfff2",
+      "encrypted": true
+    },
+    "ssl_enabled": {
+      "value": false,
+      "encrypted": false
+    },
+    "ssl_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "connection_type": {
+      "value": "manual",
+      "encrypted": false
+    }
+  }
+}

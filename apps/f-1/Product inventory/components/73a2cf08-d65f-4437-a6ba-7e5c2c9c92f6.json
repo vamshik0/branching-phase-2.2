@@ -1,0 +1,44 @@
+{
+  "id": "73a2cf08-d65f-4437-a6ba-7e5c2c9c92f6",
+  "name": "verticaldivider1",
+  "type": "VerticalDivider",
+  "pageId": "b8b12223-955e-4668-bb36-b98e001c984f",
+  "parent": "9de1aaf1-c054-402d-8806-c5b791b316f3",
+  "properties": {
+    "visibility": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "dividerColor": {
+      "value": "#C1C8CD",
+      "fxActive": true
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "ff705b8f-adb9-4be5-b777-ca99d5f5d227",
+      "type": "desktop",
+      "top": 140,
+      "left": 22,
+      "width": 1,
+      "height": 100,
+      "componentId": "73a2cf08-d65f-4437-a6ba-7e5c2c9c92f6",
+      "dimensionUnit": "count"
+    }
+  ]
+}

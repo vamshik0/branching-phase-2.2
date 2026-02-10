@@ -1,0 +1,94 @@
+{
+  "id": "8be9939a-ca12-4ac2-b8e7-2866729ccc78",
+  "name": "modal2",
+  "type": "Modal",
+  "pageId": "b8b12223-955e-4668-bb36-b98e001c984f",
+  "parent": null,
+  "properties": {
+    "title": {
+      "value": "Edit Product #{{components.table1.selectedRow.id}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "useDefaultButton": {
+      "value": "{{false}}"
+    },
+    "triggerButtonLabel": {
+      "value": "Edit Product"
+    },
+    "size": {
+      "value": "lg"
+    },
+    "hideTitleBar": {
+      "value": "{{false}}"
+    },
+    "hideCloseButton": {
+      "value": "{{false}}"
+    },
+    "hideOnEsc": {
+      "value": "{{true}}"
+    },
+    "closeOnClickingOutside": {
+      "value": "{{false}}"
+    },
+    "modalHeight": {
+      "value": "490px"
+    }
+  },
+  "general": {},
+  "styles": {
+    "headerBackgroundColor": {
+      "value": "#ffffffff",
+      "fxActive": false
+    },
+    "headerTextColor": {
+      "value": "#3e63ddff",
+      "fxActive": false
+    },
+    "bodyBackgroundColor": {
+      "value": "#ffffff00",
+      "fxActive": false
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}",
+      "fxActive": false
+    },
+    "triggerButtonBackgroundColor": {
+      "value": "#4a90e2ff",
+      "fxActive": false
+    },
+    "triggerButtonTextColor": {
+      "value": "#ffffffff"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "d24b77c0-457e-4814-8d02-2c33122ad7be",
+      "type": "desktop",
+      "top": 920,
+      "left": 7,
+      "width": 4,
+      "height": 30,
+      "componentId": "8be9939a-ca12-4ac2-b8e7-2866729ccc78",
+      "dimensionUnit": "count"
+    }
+  ]
+}

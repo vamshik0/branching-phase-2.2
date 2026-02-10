@@ -1,0 +1,89 @@
+{
+  "id": "cbdc2b63-c559-4d18-953b-6eec25aab7c2",
+  "name": "text24",
+  "type": "Text",
+  "pageId": "b8b12223-955e-4668-bb36-b98e001c984f",
+  "parent": "457dc568-89af-4612-bf60-f8ba3bbb203d",
+  "properties": {
+    "text": {
+      "value": "<strong>Warning:</strong> This process is irreversible.<br>\nAre you sure you want to remove the product?"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "#fff00000"
+    },
+    "textColor": {
+      "value": "",
+      "fxActive": false
+    },
+    "textSize": {
+      "value": "{{15}}"
+    },
+    "textAlign": {
+      "value": "center"
+    },
+    "fontWeight": {
+      "value": "normal"
+    },
+    "decoration": {
+      "value": "none"
+    },
+    "transformation": {
+      "value": "none"
+    },
+    "fontStyle": {
+      "value": "normal"
+    },
+    "lineHeight": {
+      "value": 1.5
+    },
+    "textIndent": {
+      "value": 0
+    },
+    "letterSpacing": {
+      "value": 0
+    },
+    "wordSpacing": {
+      "value": 0
+    },
+    "fontVariant": {
+      "value": "normal"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "55b25dc3-ffe5-474e-9fe2-f0fe96c46e90",
+      "type": "desktop",
+      "top": 19.999996185302734,
+      "left": 2,
+      "width": 39,
+      "height": 70,
+      "componentId": "cbdc2b63-c559-4d18-953b-6eec25aab7c2",
+      "dimensionUnit": "count"
+    }
+  ]
+}

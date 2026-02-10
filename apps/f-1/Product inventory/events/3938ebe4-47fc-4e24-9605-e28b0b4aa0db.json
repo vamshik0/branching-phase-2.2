@@ -1,0 +1,14 @@
+{
+  "id": "3938ebe4-47fc-4e24-9605-e28b0b4aa0db",
+  "name": "onDataQuerySuccess",
+  "index": 0,
+  "event": {
+    "eventId": "onDataQuerySuccess",
+    "message": "Product details updated successfully.",
+    "actionId": "show-alert",
+    "alertType": "success"
+  },
+  "sourceId": "4f3e0b7a-c636-4f68-a8ff-c6b93dab806e",
+  "target": "data_query",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}
