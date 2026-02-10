@@ -1,0 +1,16 @@
+{
+  "id": "2a434767-c361-4485-a610-a198c266690a",
+  "name": "runpy1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "params": [
+      {
+        "key": "",
+        "value": ""
+      }
+    ]
+  },
+  "dataSourceId": "1cfdae6c-e28f-4073-b7ba-e76ba92dac8f",
+  "appVersionId": "d4ed48b7-daea-4091-9819-f86dd1e84c81"
+}
