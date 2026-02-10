@@ -1,0 +1,17 @@
+{
+  "id": "eb44e2fa-fd65-4637-a26b-2a669049f4ba",
+  "name": "new-app",
+  "type": "front-end",
+  "slug": "eb44e2fa-fd65-4637-a26b-2a669049f4ba",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-10T11:18:37.437Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "draghandle",
+  "tooljetVersion": "3.20.75-ee-lts"
+}
