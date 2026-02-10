@@ -1,0 +1,41 @@
+{
+  "id": "0c9f9270-5b32-4641-9242-b6353be3c325",
+  "name": "removeProduct",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "{{`UPDATE products\nSET is_active = false\nWHERE id = ${components.table1.selectedRow.id}\nAND is_active = true;`}}",
+    "events": [
+      {
+        "eventId": "onDataQuerySuccess",
+        "actionId": "show-alert",
+        "message": "Successfully updated product details.",
+        "alertType": "success"
+      },
+      {
+        "eventId": "onDataQuerySuccess",
+        "actionId": "close-modal",
+        "message": "Hello world!",
+        "alertType": "info",
+        "modal": "c661499a-48fd-4c95-ace8-0a0b8af9d350"
+      },
+      {
+        "eventId": "onDataQuerySuccess",
+        "actionId": "run-query",
+        "message": "Hello world!",
+        "alertType": "info",
+        "queryName": "getProducts",
+        "parameters": {}
+      },
+      {
+        "eventId": "onDataQueryFailure",
+        "actionId": "show-alert",
+        "message": "Failed to update product details! Please check and try again.",
+        "alertType": "warning"
+      }
+    ]
+  },
+  "dataSourceId": "43636496-358c-4e10-abc7-afdc3762c3be",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

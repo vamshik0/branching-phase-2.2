@@ -1,0 +1,93 @@
+{
+  "id": "9de1aaf1-c054-402d-8806-c5b791b316f3",
+  "name": "modal1",
+  "type": "Modal",
+  "pageId": "b8b12223-955e-4668-bb36-b98e001c984f",
+  "parent": null,
+  "properties": {
+    "title": {
+      "value": "Add a Product"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "useDefaultButton": {
+      "value": "{{false}}"
+    },
+    "triggerButtonLabel": {
+      "value": "Add a Product"
+    },
+    "size": {
+      "value": "lg"
+    },
+    "hideTitleBar": {
+      "value": "{{false}}"
+    },
+    "hideCloseButton": {
+      "value": "{{false}}"
+    },
+    "hideOnEsc": {
+      "value": "{{true}}"
+    },
+    "closeOnClickingOutside": {
+      "value": "{{false}}"
+    },
+    "modalHeight": {
+      "value": "490px"
+    }
+  },
+  "general": {},
+  "styles": {
+    "headerBackgroundColor": {
+      "value": "#ffffffff",
+      "fxActive": false
+    },
+    "headerTextColor": {
+      "value": "#3e63ddff",
+      "fxActive": true
+    },
+    "bodyBackgroundColor": {
+      "value": "#ffffffff",
+      "fxActive": true
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "triggerButtonBackgroundColor": {
+      "value": "#4a90e2ff",
+      "fxActive": false
+    },
+    "triggerButtonTextColor": {
+      "value": "#ffffffff"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "9da955d5-aed8-4740-8e34-65e501afd9e3",
+      "type": "desktop",
+      "top": 920,
+      "left": 2,
+      "width": 4,
+      "height": 30,
+      "componentId": "9de1aaf1-c054-402d-8806-c5b791b316f3",
+      "dimensionUnit": "count"
+    }
+  ]
+}

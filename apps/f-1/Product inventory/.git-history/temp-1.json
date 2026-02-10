@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Product inventory",
+  "appCoRelationId": "b70939c1-9cb2-437b-8785-18aee984f024",
+  "gitAppId": "7d68d187-971e-4409-b57e-ccf68869231f",
+  "branchName": "temp-1",
+  "gitVersionName": "temp-1",
+  "gitVersionId": "1b803944-a667-4bea-ba34-b45f9b677638",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-10T12:28:54.092Z",
+  "updatedAt": "2026-02-10T12:28:54.092Z"
+}

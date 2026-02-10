@@ -1,0 +1,14 @@
+{
+  "id": "65861ad9-1ba1-40a7-b8d7-054ff8dabd0a",
+  "name": "onDataQueryFailure",
+  "index": 3,
+  "event": {
+    "eventId": "onDataQueryFailure",
+    "message": "Unable to add product. Please review and try again.",
+    "actionId": "show-alert",
+    "alertType": "warning"
+  },
+  "sourceId": "cf9edce3-d1e6-4b17-9e3b-6e8d1e847415",
+  "target": "data_query",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}
