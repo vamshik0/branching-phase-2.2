@@ -1,0 +1,17 @@
+{
+  "id": "fcae1458-52f4-449b-b221-c35960467b32",
+  "name": "tooljet-app",
+  "type": "front-end",
+  "slug": "fcae1458-52f4-449b-b221-c35960467b32",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-10T12:19:40.966Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "draghandle",
+  "tooljetVersion": "3.20.75-ee-lts"
+}
