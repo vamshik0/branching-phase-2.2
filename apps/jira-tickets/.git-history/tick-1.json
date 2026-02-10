@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "jira-tickets",
+  "appCoRelationId": "19e19567-d946-40f6-98e9-031c4b91501f",
+  "gitAppId": "5be57f38-2af0-4064-aaec-93533848319c",
+  "branchName": "tick-1",
+  "gitVersionName": "tick-1",
+  "gitVersionId": "ad231604-7f93-4a9d-8396-942b046ebd53",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-10T10:14:55.489Z",
+  "updatedAt": "2026-02-10T10:14:55.489Z"
+}
