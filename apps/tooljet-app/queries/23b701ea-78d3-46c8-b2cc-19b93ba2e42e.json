@@ -3,7 +3,7 @@
   "name": "restapi1",
   "options": {
     "method": "get",
-    "url": "",
+    "url": "https://jsonplaceholder.typicode.com/todos/1",
     "url_params": [],
     "headers": [],
     "cookies": [],
@@ -18,7 +18,8 @@
         "key": "",
         "value": ""
       }
-    ]
+    ],
+    "runOnPageLoad": true
   },
   "dataSourceId": "655ac199-5dcb-4f52-92e3-dae0f8a4b356",
   "appVersionId": "90cbd74e-23e0-4b87-99e4-81f56a7a2d53"
