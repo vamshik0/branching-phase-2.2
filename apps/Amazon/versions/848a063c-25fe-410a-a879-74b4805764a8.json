@@ -19,13 +19,13 @@
     }
   },
   "showViewerNavigation": true,
-  "homePageId": "f97a7fc4-c3dd-42c5-8803-bf08f24ee595",
-  "versionType": "branch",
+  "homePageId": "82018ed6-2598-4a92-9b29-c3240bf1b972",
+  "versionType": "version",
   "appId": "93ccc217-13dd-4173-a2e8-12d61f95895c",
-  "currentEnvironmentId": "e1ee77dd-697c-4c35-8014-eb4d2df49257",
+  "currentEnvironmentId": "d7c9f126-9431-4aa4-9e98-a139c9285a4b",
   "promotedFrom": null,
-  "status": "DRAFT",
-  "description": null,
+  "status": "PUBLISHED",
+  "description": "second",
   "publishedAt": null,
   "releasedAt": null
 }
