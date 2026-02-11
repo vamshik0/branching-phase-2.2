@@ -1,0 +1,90 @@
+{
+  "id": "dda75202-c9ab-459b-880e-18078a755a60",
+  "name": "buttongroup1",
+  "type": "ButtonGroup",
+  "pageId": "ca81df6c-435f-4bc2-aaf6-b909612c0b66",
+  "parent": null,
+  "properties": {
+    "label": {
+      "value": "Button group"
+    },
+    "defaultSelected": {
+      "value": "{{[1]}}"
+    },
+    "values": {
+      "value": "{{[1,2,3]}}"
+    },
+    "labels": {
+      "value": "{{[]}}"
+    },
+    "multiSelection": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "borderRadius": {
+      "value": "{{4}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "selectedTextColor": {
+      "value": "#FFFFFF"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "selectedBackgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "alignment": {
+      "value": "left"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "2c8f6e5e-7c6e-4ef5-b9e8-ed1ca09debc7",
+      "type": "desktop",
+      "top": 110,
+      "left": 12,
+      "width": 12,
+      "height": 80,
+      "componentId": "dda75202-c9ab-459b-880e-18078a755a60",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "1bbf3cb9-ae66-440d-bb49-ea597978e7bb",
+      "type": "mobile",
+      "top": 110,
+      "left": 12,
+      "width": 12,
+      "height": 80,
+      "componentId": "dda75202-c9ab-459b-880e-18078a755a60",
+      "dimensionUnit": "count"
+    }
+  ]
+}
