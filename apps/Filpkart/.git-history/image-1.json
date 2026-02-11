@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Filpkart",
+  "appCoRelationId": "87169323-3810-4d73-8b6c-cc06820fe7d6",
+  "gitAppId": "90f83831-9958-49ca-b947-0b2e5c8e7e70",
+  "branchName": "image-1",
+  "gitVersionName": "image-1",
+  "gitVersionId": "09192b09-f8b1-4ed0-99f0-a346727ed69a",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-11T09:41:31.695Z",
+  "updatedAt": "2026-02-11T09:41:31.695Z"
+}
