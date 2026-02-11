@@ -3,7 +3,7 @@
   "name": "restapi1",
   "options": {
     "method": "get",
-    "url": "https://jsonplaceholder.typicode.com/todos/1",
+    "url": "",
     "url_params": [],
     "headers": [],
     "cookies": [],
