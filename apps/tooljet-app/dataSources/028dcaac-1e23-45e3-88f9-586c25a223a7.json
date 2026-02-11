@@ -1,0 +1,10 @@
+{
+  "id": "028dcaac-1e23-45e3-88f9-586c25a223a7",
+  "name": "workflowsdefault",
+  "kind": "workflows",
+  "type": "static",
+  "pluginId": null,
+  "appVersionId": null,
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "scope": "global"
+}
