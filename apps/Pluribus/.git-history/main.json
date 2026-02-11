@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Pluribus",
+  "appCoRelationId": "8096abf9-554d-47c5-a97e-609ab1950e74",
+  "gitAppId": "0f6cdb5b-a2e5-46e6-9105-ad603f4b7a33",
+  "branchName": "main",
+  "gitVersionName": "v1",
+  "gitVersionId": "da3ba0dc-a287-40bb-ad0f-aca2dee9502d",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-11T12:02:19.626Z",
+  "updatedAt": "2026-02-11T12:02:19.626Z"
+}
