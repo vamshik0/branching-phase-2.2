@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "tooljet-app",
+  "appCoRelationId": "fcae1458-52f4-449b-b221-c35960467b32",
+  "gitAppId": "16f67624-a984-4b9b-abf6-ad8498c3da61",
+  "branchName": "main",
+  "gitVersionName": "v1",
+  "gitVersionId": "dbe9aa38-01e7-458f-8f63-cf50d3d296a9",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-11T06:52:04.178Z",
+  "updatedAt": "2026-02-11T06:52:04.178Z"
+}
