@@ -1,0 +1,17 @@
+{
+  "id": "cd8a2069-46da-48f4-bf4d-ee796d0147fb",
+  "name": "save-app",
+  "type": "front-end",
+  "slug": "cd8a2069-46da-48f4-bf4d-ee796d0147fb",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-11T06:59:08.358Z",
+  "organizationId": "1890ff53-6548-418d-be04-633de2dc9312",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "sentfast",
+  "tooljetVersion": "3.20.75-ee-lts"
+}
