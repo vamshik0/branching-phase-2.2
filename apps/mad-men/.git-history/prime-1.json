@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "mad-men",
+  "appCoRelationId": "d00c0f48-f197-4882-9e77-467ec1ad5692",
+  "gitAppId": "ececfbb4-94a5-49ea-a0e6-4a535e353c6e",
+  "branchName": "prime-1",
+  "gitVersionName": "prime-1",
+  "gitVersionId": "e10d4eb5-69fb-43fc-9e0f-0811268aaaf6",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-11T12:41:20.032Z",
+  "updatedAt": "2026-02-11T12:41:20.032Z"
+}
