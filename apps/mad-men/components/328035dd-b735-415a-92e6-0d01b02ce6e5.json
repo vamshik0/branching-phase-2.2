@@ -52,6 +52,9 @@
     },
     "buttonToSubmit": {
       "value": "d797cec6-530a-41e9-b1f3-3f45b89ac9c3"
+    },
+    "fields": {
+      "value": []
     }
   },
   "general": {},
@@ -81,7 +84,11 @@
       "value": "0px 0px 0px 0px #00000040"
     }
   },
-  "generalStyles": {},
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -95,8 +102,8 @@
     {
       "id": "9d748adf-9080-4911-bee4-02a6208a3587",
       "type": "desktop",
-      "top": 190,
-      "left": 6,
+      "top": 100,
+      "left": 2,
       "width": 15,
       "height": 450,
       "componentId": "328035dd-b735-415a-92e6-0d01b02ce6e5",
