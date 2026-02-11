@@ -1,8 +1,8 @@
 {
-  "id": "f3e5549e-3190-46bc-8420-ab650d29f822",
+  "id": "2c27e5d0-2a90-4239-88f1-445db7b794d6",
   "name": "table1",
   "type": "Table",
-  "pageId": "82018ed6-2598-4a92-9b29-c3240bf1b972",
+  "pageId": "f97a7fc4-c3dd-42c5-8803-bf08f24ee595",
   "parent": null,
   "properties": {
     "title": {
@@ -295,7 +295,7 @@
       "left": 2,
       "width": 15,
       "height": 630,
-      "componentId": "f3e5549e-3190-46bc-8420-ab650d29f822",
+      "componentId": "2c27e5d0-2a90-4239-88f1-445db7b794d6",
       "dimensionUnit": "count"
     },
     {
@@ -305,7 +305,7 @@
       "left": 2,
       "width": 25,
       "height": 460,
-      "componentId": "f3e5549e-3190-46bc-8420-ab650d29f822",
+      "componentId": "2c27e5d0-2a90-4239-88f1-445db7b794d6",
       "dimensionUnit": "count"
     }
   ]
