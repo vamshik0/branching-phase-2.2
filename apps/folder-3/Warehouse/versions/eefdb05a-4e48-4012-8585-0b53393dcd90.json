@@ -20,12 +20,12 @@
   },
   "showViewerNavigation": true,
   "homePageId": "f8a889cc-7687-4ecf-8603-f6ec570f7e80",
-  "versionType": "branch",
+  "versionType": "version",
   "appId": "bd5c72d6-d589-402f-b4d4-aa200b7c0fda",
   "currentEnvironmentId": "e1ee77dd-697c-4c35-8014-eb4d2df49257",
   "promotedFrom": null,
-  "status": "DRAFT",
-  "description": null,
+  "status": "PUBLISHED",
+  "description": "third",
   "publishedAt": null,
   "releasedAt": null
 }
