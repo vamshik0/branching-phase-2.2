@@ -1,5 +1,5 @@
 {
-  "id": "e34834f1-9b92-4bea-b934-7b365f362310",
+  "id": "8ffb46d9-cf77-4d4f-81a7-efc502722c4c",
   "name": "text1",
   "type": "Text",
   "pageId": "834bddb9-79c8-4373-b269-e41d65fb5650",
@@ -75,7 +75,7 @@
       "value": "0px 0px 0px 0px #00000040"
     },
     "borderColor": {
-      "value": "#76141400"
+      "value": "#ffffff00"
     },
     "borderRadius": {
       "value": "{{6}}"
@@ -100,23 +100,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "307e5fb4-9382-4468-ab63-d39dbec2b580",
+      "id": "690e2456-f35f-494d-8ba4-674763909e4e",
       "type": "desktop",
       "top": 80,
       "left": 25,
       "width": 6,
       "height": 40,
-      "componentId": "e34834f1-9b92-4bea-b934-7b365f362310",
+      "componentId": "8ffb46d9-cf77-4d4f-81a7-efc502722c4c",
       "dimensionUnit": "count"
     },
     {
-      "id": "4ab4bbdf-3b94-4ee2-812b-110c955c7c5a",
+      "id": "7fec8c65-5a49-495d-be92-3dd754aa5f64",
       "type": "mobile",
-      "top": 80,
+      "top": 60,
       "left": 25,
       "width": 6,
       "height": 40,
-      "componentId": "e34834f1-9b92-4bea-b934-7b365f362310",
+      "componentId": "8ffb46d9-cf77-4d4f-81a7-efc502722c4c",
       "dimensionUnit": "count"
     }
   ]
