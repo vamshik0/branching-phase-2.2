@@ -1,0 +1,96 @@
+{
+  "id": "4096d546-25e8-4284-9200-387778f3f059",
+  "name": "chart1",
+  "type": "Chart",
+  "pageId": "f8a889cc-7687-4ecf-8603-f6ec570f7e80",
+  "parent": null,
+  "properties": {
+    "title": {
+      "value": "This title can be changed"
+    },
+    "markerColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "showAxes": {
+      "value": "{{true}}"
+    },
+    "showGridLines": {
+      "value": "{{true}}"
+    },
+    "plotFromJson": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "barmode": {
+      "value": "group"
+    },
+    "jsonDescription": {
+      "value": "{\n              \"data\": [\n                  {\n                      \"x\": [\n                          \"Jan\",\n                          \"Feb\",\n                          \"Mar\"\n                      ],\n                      \"y\": [\n                          100,\n                          80,\n                          40\n                      ],\n                      \"type\": \"bar\"\n                  }\n              ]\n          }"
+    },
+    "type": {
+      "value": "line"
+    },
+    "data": {
+      "value": "[\n    { \"x\": \"Jan\", \"y\": 100},\n    { \"x\": \"Feb\", \"y\": 80},\n    { \"x\": \"Mar\", \"y\": 40}\n  ]"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "padding": {
+      "value": "50"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "e53ff42f-51e9-425e-8cc0-9d5d8d7afd4b",
+      "type": "desktop",
+      "top": 110,
+      "left": 2,
+      "width": 20,
+      "height": 400,
+      "componentId": "4096d546-25e8-4284-9200-387778f3f059",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "486b787a-e2ad-4980-8ed0-6fc4a2fb8f84",
+      "type": "mobile",
+      "top": 100,
+      "left": 19,
+      "width": 20,
+      "height": 400,
+      "componentId": "4096d546-25e8-4284-9200-387778f3f059",
+      "dimensionUnit": "count"
+    }
+  ]
+}
