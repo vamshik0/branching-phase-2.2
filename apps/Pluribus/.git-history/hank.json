@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Pluribus",
+  "appCoRelationId": "8096abf9-554d-47c5-a97e-609ab1950e74",
+  "gitAppId": "0f6cdb5b-a2e5-46e6-9105-ad603f4b7a33",
+  "branchName": "hank",
+  "gitVersionName": "hank",
+  "gitVersionId": "f2c55e31-8a87-47ce-9776-0d6b8d275ab0",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-11T12:00:32.672Z",
+  "updatedAt": "2026-02-11T12:14:27.044Z"
+}

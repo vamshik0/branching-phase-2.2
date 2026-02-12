@@ -1,8 +1,8 @@
 {
-  "id": "d89db383-4609-43eb-b7b8-3e27d4d80cae",
+  "id": "aea87e52-baf7-4d1e-8439-5964ee01c263",
   "name": "form1",
   "type": "Form",
-  "pageId": "71b9a2d4-9a37-4757-8175-32006ff82e47",
+  "pageId": "851c3ac5-7e50-4014-b03d-34f3f335d4fe",
   "parent": null,
   "properties": {
     "loadingState": {
@@ -51,7 +51,7 @@
       "value": {}
     },
     "buttonToSubmit": {
-      "value": "72143240-3739-40ff-943c-4389df426f0d"
+      "value": "9535df2d-dc7d-42eb-914c-2461990cc1d1"
     }
   },
   "general": {},
@@ -94,23 +94,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "bd0df4b3-b651-472e-8e76-948cdf672a4f",
+      "id": "d59ad228-d6dd-48e1-97a9-1c37074bf321",
       "type": "desktop",
-      "top": 70,
-      "left": 25,
-      "width": 15,
-      "height": 450,
-      "componentId": "d89db383-4609-43eb-b7b8-3e27d4d80cae",
-      "dimensionUnit": "count"
-    },
-    {
-      "id": "76b59029-7cc5-4687-b47f-5d01621ec6b2",
-      "type": "mobile",
-      "top": 60,
+      "top": 210,
       "left": 3,
       "width": 15,
       "height": 450,
-      "componentId": "d89db383-4609-43eb-b7b8-3e27d4d80cae",
+      "componentId": "aea87e52-baf7-4d1e-8439-5964ee01c263",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "ce57c48d-0ae9-4a1d-84b1-e073883d4ecf",
+      "type": "mobile",
+      "top": 210,
+      "left": 3,
+      "width": 15,
+      "height": 450,
+      "componentId": "aea87e52-baf7-4d1e-8439-5964ee01c263",
       "dimensionUnit": "count"
     }
   ]

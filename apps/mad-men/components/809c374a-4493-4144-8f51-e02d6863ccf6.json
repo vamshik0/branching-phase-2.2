@@ -1,0 +1,123 @@
+{
+  "id": "809c374a-4493-4144-8f51-e02d6863ccf6",
+  "name": "text3",
+  "type": "Text",
+  "pageId": "2aee3fb1-988b-4371-a9a1-6a1703592626",
+  "parent": "f704705f-a27a-4e0e-9bc9-91cb0babfd24",
+  "properties": {
+    "textFormat": {
+      "value": "html"
+    },
+    "dynamicHeight": {
+      "value": "{{false}}"
+    },
+    "text": {
+      "value": "{{listItem.text}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "#fff00000"
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "textSize": {
+      "value": "{{14}}"
+    },
+    "textAlign": {
+      "value": "left"
+    },
+    "fontWeight": {
+      "value": "normal"
+    },
+    "decoration": {
+      "value": "none"
+    },
+    "transformation": {
+      "value": "none"
+    },
+    "fontStyle": {
+      "value": "normal"
+    },
+    "lineHeight": {
+      "value": "{{1.5}}"
+    },
+    "textIndent": {
+      "value": "{{0}}"
+    },
+    "letterSpacing": {
+      "value": "{{0}}"
+    },
+    "wordSpacing": {
+      "value": "{{0}}"
+    },
+    "fontVariant": {
+      "value": "normal"
+    },
+    "verticalAlignment": {
+      "value": "center"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "borderColor": {
+      "value": "#ffffff00"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "isScrollRequired": {
+      "value": "enabled"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "06d489ab-162f-4b33-bf68-c3873fc8a417",
+      "type": "desktop",
+      "top": 30,
+      "left": 11,
+      "width": 12,
+      "height": 30,
+      "componentId": "809c374a-4493-4144-8f51-e02d6863ccf6",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "54b54865-f54a-4a70-8dee-a4ea663748e0",
+      "type": "mobile",
+      "top": 30,
+      "left": 11,
+      "width": 12,
+      "height": 30,
+      "componentId": "809c374a-4493-4144-8f51-e02d6863ccf6",
+      "dimensionUnit": "count"
+    }
+  ]
+}

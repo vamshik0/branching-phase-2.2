@@ -1,0 +1,17 @@
+{
+  "id": "8096abf9-554d-47c5-a97e-609ab1950e74",
+  "name": "Pluribus",
+  "type": "front-end",
+  "slug": "8096abf9-554d-47c5-a97e-609ab1950e74",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-11T11:59:36.749Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "menuhome",
+  "tooljetVersion": "3.20.75-ee-lts"
+}

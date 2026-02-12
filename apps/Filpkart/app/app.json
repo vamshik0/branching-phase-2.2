@@ -1,0 +1,17 @@
+{
+  "id": "87169323-3810-4d73-8b6c-cc06820fe7d6",
+  "name": "Filpkart",
+  "type": "front-end",
+  "slug": "87169323-3810-4d73-8b6c-cc06820fe7d6",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-11T09:24:48.463Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "share",
+  "tooljetVersion": "3.20.75-ee-lts"
+}
