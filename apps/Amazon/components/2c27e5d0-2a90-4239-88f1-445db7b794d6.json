@@ -1,5 +1,5 @@
 {
-  "id": "351dcace-6465-4d95-ac91-b61f2a39df52",
+  "id": "2c27e5d0-2a90-4239-88f1-445db7b794d6",
   "name": "table1",
   "type": "Table",
   "pageId": "f97a7fc4-c3dd-42c5-8803-bf08f24ee595",
@@ -289,23 +289,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "391d26d2-2a1d-4043-81d2-9164ce7c2ef7",
+      "id": "87d74e0f-d81e-4d36-9d35-c300248f837f",
       "type": "desktop",
       "top": 100,
       "left": 2,
       "width": 15,
       "height": 630,
-      "componentId": "351dcace-6465-4d95-ac91-b61f2a39df52",
+      "componentId": "2c27e5d0-2a90-4239-88f1-445db7b794d6",
       "dimensionUnit": "count"
     },
     {
-      "id": "cb6049ea-bb5e-4169-9c63-0dc7cb0dc92a",
+      "id": "b24fa89e-024e-49e8-b251-68da14ba6322",
       "type": "mobile",
       "top": 100,
       "left": 2,
       "width": 25,
       "height": 460,
-      "componentId": "351dcace-6465-4d95-ac91-b61f2a39df52",
+      "componentId": "2c27e5d0-2a90-4239-88f1-445db7b794d6",
       "dimensionUnit": "count"
     }
   ]
