@@ -1,0 +1,17 @@
+{
+  "id": "dabe8f00-eb15-4513-a0d1-cd279579ba47",
+  "name": "Cart items",
+  "type": "front-end",
+  "slug": "dabe8f00-eb15-4513-a0d1-cd279579ba47",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-12T07:43:53.133Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "table",
+  "tooljetVersion": "3.20.75-ee-lts"
+}
