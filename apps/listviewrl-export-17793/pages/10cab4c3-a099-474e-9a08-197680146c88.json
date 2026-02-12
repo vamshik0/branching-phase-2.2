@@ -1,0 +1,18 @@
+{
+  "id": "10cab4c3-a099-474e-9a08-197680146c88",
+  "name": "Bug",
+  "handle": "bug",
+  "index": 999,
+  "disabled": null,
+  "hidden": null,
+  "icon": null,
+  "autoComputeLayout": true,
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805",
+  "pageGroupIndex": 2,
+  "pageGroupId": null,
+  "isPageGroup": false,
+  "url": null,
+  "openIn": "new_tab",
+  "type": "default",
+  "appId": ""
+}
