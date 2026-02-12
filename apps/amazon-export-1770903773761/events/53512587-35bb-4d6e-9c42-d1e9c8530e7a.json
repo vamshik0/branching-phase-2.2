@@ -1,0 +1,18 @@
+{
+  "id": "53512587-35bb-4d6e-9c42-d1e9c8530e7a",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "9a950b36-79ed-4077-93e2-e1f1baf9dcca",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "button1",
+    "queryName": "tooljetdb1",
+    "parameters": {}
+  },
+  "sourceId": "f94d122a-56b2-4f5e-8945-c742cc624d00",
+  "target": "component",
+  "appVersionId": "da2e0e2b-7532-41f7-8df5-83864b816fae"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "9a950b36-79ed-4077-93e2-e1f1baf9dcca",
+  "name": "tooljetdb1",
+  "options": {
+    "operation": "list_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "table_id": "fef28245-a394-4236-972d-5b9234948b14",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1770879419144,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "fef28245-a394-4236-972d-5b9234948b14"
+                },
+                "rightField": {}
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "fef28245-a394-4236-972d-5b9234948b14",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "fef28245-a394-4236-972d-5b9234948b14"
+        },
+        {
+          "name": "name",
+          "table": "fef28245-a394-4236-972d-5b9234948b14"
+        },
+        {
+          "name": "std",
+          "table": "fef28245-a394-4236-972d-5b9234948b14"
+        }
+      ]
+    },
+    "list_rows": {},
+    "runOnPageLoad": false,
+    "organization_id": "c1d140ca-18c9-4df9-abba-a3bd27687dfc"
+  },
+  "dataSourceId": "d9a56302-8c10-423e-9bbc-a3ef1244456c",
+  "appVersionId": "da2e0e2b-7532-41f7-8df5-83864b816fae"
+}
