@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Cart items",
+  "appCoRelationId": "dabe8f00-eb15-4513-a0d1-cd279579ba47",
+  "gitAppId": "bf7ff8c4-7dc0-4b36-945d-4332cdf059a3",
+  "branchName": "produce-2",
+  "gitVersionName": "produce-2",
+  "gitVersionId": "232cba69-c72d-4339-adec-82f43246d4e6",
+  "tooljetVersion": "3.20.75-ee-lts",
+  "createdAt": "2026-02-12T07:51:55.885Z",
+  "updatedAt": "2026-02-12T07:51:55.885Z"
+}
