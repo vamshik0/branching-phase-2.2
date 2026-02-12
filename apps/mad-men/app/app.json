@@ -1,0 +1,17 @@
+{
+  "id": "d00c0f48-f197-4882-9e77-467ec1ad5692",
+  "name": "mad-men",
+  "type": "front-end",
+  "slug": "d00c0f48-f197-4882-9e77-467ec1ad5692",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-11T12:40:34.042Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "globe",
+  "tooljetVersion": "3.20.75-ee-lts"
+}

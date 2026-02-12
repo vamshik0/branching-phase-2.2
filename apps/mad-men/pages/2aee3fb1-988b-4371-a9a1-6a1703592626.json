@@ -1,5 +1,5 @@
 {
-  "id": "30cc90a2-ddb8-49ef-948c-aa8ff7a47c1e",
+  "id": "2aee3fb1-988b-4371-a9a1-6a1703592626",
   "name": "Home",
   "handle": "home",
   "index": 1,
@@ -7,12 +7,12 @@
   "hidden": false,
   "icon": null,
   "autoComputeLayout": true,
-  "appVersionId": "90cbd74e-23e0-4b87-99e4-81f56a7a2d53",
+  "appVersionId": "cf0b7a42-e0c7-4732-991c-adc3a349f5ea",
   "pageGroupIndex": 1,
   "pageGroupId": null,
   "isPageGroup": false,
   "url": null,
   "openIn": "new_tab",
   "type": "default",
-  "appId": "fcae1458-52f4-449b-b221-c35960467b32"
+  "appId": "d00c0f48-f197-4882-9e77-467ec1ad5692"
 }

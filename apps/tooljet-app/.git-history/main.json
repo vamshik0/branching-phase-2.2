@@ -3,10 +3,10 @@
   "gitAppName": "tooljet-app",
   "appCoRelationId": "fcae1458-52f4-449b-b221-c35960467b32",
   "gitAppId": "16f67624-a984-4b9b-abf6-ad8498c3da61",
-  "branchName": "r-2",
-  "gitVersionName": "r-2",
-  "gitVersionId": "02ef49b9-1365-4762-851f-2e33aeeb09a7",
+  "branchName": "main",
+  "gitVersionName": "v2",
+  "gitVersionId": "1e6b559e-3a8e-4ba3-bc62-8ce4d515a761",
   "tooljetVersion": "3.20.75-ee-lts",
-  "createdAt": "2026-02-10T12:20:27.651Z",
-  "updatedAt": "2026-02-11T08:14:26.001Z"
+  "createdAt": "2026-02-11T06:52:04.178Z",
+  "updatedAt": "2026-02-11T08:20:42.673Z"
 }
