@@ -1,0 +1,95 @@
+{
+  "id": "7d961fc5-1754-4488-811e-3ebaa51637c2",
+  "name": "button4",
+  "type": "Button",
+  "pageId": "1218d1c5-abae-41e1-ba51-b6cc02cc26f0",
+  "parent": "617f636b-4777-4ee6-b41c-52217016c733-footer",
+  "properties": {
+    "text": {
+      "value": "Submit"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#FFFFFF"
+    },
+    "borderColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "icon": {
+      "value": "IconAlignBoxBottomLeft"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "type": {
+      "value": "primary"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "374cc450-2eb4-4eac-a3f3-e2e819063682",
+      "type": "desktop",
+      "top": 20,
+      "left": 32,
+      "width": 9.30232558139535,
+      "height": 40,
+      "componentId": "7d961fc5-1754-4488-811e-3ebaa51637c2",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "9889a53d-b502-42c4-8b6e-5b249358c151",
+      "type": "mobile",
+      "top": 20,
+      "left": 32,
+      "width": 9.30232558139535,
+      "height": 40,
+      "componentId": "7d961fc5-1754-4488-811e-3ebaa51637c2",
+      "dimensionUnit": "count"
+    }
+  ]
+}
