@@ -8,7 +8,7 @@
     "canvasMaxHeight": 2400,
     "canvasBackgroundColor": "var(--cc-appBackground-surface)",
     "backgroundFxQuery": "",
-    "appMode": "light"
+    "appMode": "auto"
   },
   "pageSettings": {
     "properties": {
@@ -25,7 +25,7 @@
   "currentEnvironmentId": "e1ee77dd-697c-4c35-8014-eb4d2df49257",
   "promotedFrom": null,
   "status": "PUBLISHED",
-  "description": "third",
+  "description": "fifth",
   "publishedAt": null,
   "releasedAt": null
 }
