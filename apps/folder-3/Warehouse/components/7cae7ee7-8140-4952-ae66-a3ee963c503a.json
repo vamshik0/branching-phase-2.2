@@ -1,0 +1,95 @@
+{
+  "id": "7cae7ee7-8140-4952-ae66-a3ee963c503a",
+  "name": "button1",
+  "type": "Button",
+  "pageId": "f8a889cc-7687-4ecf-8603-f6ec570f7e80",
+  "parent": "f23a6d1a-ee0c-4f3e-9c5a-1dd2ae936f9b-footer",
+  "properties": {
+    "text": {
+      "value": "Submit"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#FFFFFF"
+    },
+    "borderColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "icon": {
+      "value": "IconAlignBoxBottomLeft"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "type": {
+      "value": "primary"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "57b092a8-cc8e-40ec-a4dc-ea93c3a04aef",
+      "type": "desktop",
+      "top": 10,
+      "left": 29,
+      "width": 13,
+      "height": 40,
+      "componentId": "7cae7ee7-8140-4952-ae66-a3ee963c503a",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "fde4af5b-7ef1-46ef-bea2-300c209f9d4f",
+      "type": "mobile",
+      "top": 10,
+      "left": 29,
+      "width": 13,
+      "height": 40,
+      "componentId": "7cae7ee7-8140-4952-ae66-a3ee963c503a",
+      "dimensionUnit": "count"
+    }
+  ]
+}
