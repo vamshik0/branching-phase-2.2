@@ -54,7 +54,8 @@
       "javascript": "const selectedStatus = components.dropdown1.value;\nconst selectedPriority = components.dropdown2.value;\n\nlet filteredData = data;\n\n// Filter by status if not \"All\"\nif (selectedStatus !== 'All') {\n  filteredData = filteredData.filter(ticket => ticket.status === selectedStatus);\n}\n\n// Filter by priority if not \"All\"\nif (selectedPriority !== 'All') {\n  filteredData = filteredData.filter(ticket => ticket.priority === selectedPriority);\n}\n\nreturn filteredData;",
       "python": "# write your code here\n# return value will be set as data and the original data will be available as rawData\n[row for row in data if row['amount'] > 1000]\n  "
     },
-    "organization_id": "c1d140ca-18c9-4df9-abba-a3bd27687dfc"
+    "organization_id": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+    "method": "get"
   },
   "dataSourceId": "d9a56302-8c10-423e-9bbc-a3ef1244456c",
   "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"

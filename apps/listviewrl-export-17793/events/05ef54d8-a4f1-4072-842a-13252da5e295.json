@@ -1,17 +1,18 @@
 {
-  "id": "eff9eb70-7c95-43a9-b5b5-3dadc4548898",
-  "name": "onDataQuerySuccess",
+  "id": "05ef54d8-a4f1-4072-842a-13252da5e295",
+  "name": "onSelect",
   "index": 0,
   "event": {
-    "eventId": "onDataQuerySuccess",
+    "eventId": "onSelect",
     "message": "Hello world!",
     "queryId": "cd0a01a3-01f5-4d05-bfee-93ef19816032",
     "actionId": "run-query",
     "alertType": "info",
+    "component": "dropdown2",
     "queryName": "fetch",
     "parameters": {}
   },
-  "sourceId": "64b3a5b5-2f39-481a-8209-09c8db333a3b",
-  "target": "data_query",
+  "sourceId": "d81e161f-fb72-450d-97cc-e3e966d6f306",
+  "target": "component",
   "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
 }

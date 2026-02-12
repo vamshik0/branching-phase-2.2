@@ -1,18 +1,18 @@
 {
-  "id": "42100fe3-bb70-4071-a212-80d617c166d9",
+  "id": "a31f0fe8-c6a8-47fd-bcc4-bd7988a3b3aa",
   "name": "onClick",
   "index": 0,
   "event": {
     "eventId": "onClick",
     "message": "Hello world!",
-    "queryId": "c040217a-ce18-46e7-bd05-1d555ff7340a",
+    "queryId": "b80384d9-8310-4781-b2f0-0cda8ef8d68c",
     "actionId": "run-query",
     "alertType": "info",
-    "component": "button7",
-    "queryName": "Update",
+    "component": "icon1",
+    "queryName": "delete",
     "parameters": {}
   },
-  "sourceId": "e5d600c5-aa8b-4712-8764-233916fcd891",
+  "sourceId": "ab309085-1c50-4bcc-b272-2629b9ac38ef",
   "target": "component",
   "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
 }
