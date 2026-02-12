@@ -1,15 +1,15 @@
 {
-  "id": "e1d40dec-da25-46b8-a9b5-d0e3d4a87a27",
+  "id": "82dff3b6-d452-4100-be4b-430ada91ea2b",
   "name": "onClick",
-  "index": 1,
+  "index": 0,
   "event": {
     "eventId": "onClick",
     "message": "Hello world!",
-    "queryId": "666e5f7b-6928-4a25-9023-3f84d05ebea0",
+    "queryId": "94c8d9f6-b939-4ebd-8933-f16a337de780",
     "actionId": "run-query",
     "alertType": "info",
     "component": "button1",
-    "queryName": "restapi1",
+    "queryName": "tooljetdb1",
     "parameters": {}
   },
   "sourceId": "3012fb0f-e025-42ed-b40c-8d24a3f2a435",
