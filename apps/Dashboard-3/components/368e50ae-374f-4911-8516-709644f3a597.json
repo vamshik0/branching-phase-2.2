@@ -1,8 +1,8 @@
 {
-  "id": "cd3c3953-3c6a-4930-9a4b-dd51d0d56dde",
+  "id": "368e50ae-374f-4911-8516-709644f3a597",
   "name": "chart1",
   "type": "Chart",
-  "pageId": "a2175ebc-2cb4-4906-8c9e-80920aee06f0",
+  "pageId": "077ea7ee-70ef-4169-8bed-ccd88b253eb7",
   "parent": null,
   "properties": {
     "title": {
@@ -75,11 +75,11 @@
     {
       "id": "dc306f51-425c-439e-83f4-dd8a87baaa86",
       "type": "desktop",
-      "top": 80,
+      "top": 40,
       "left": 1,
       "width": 14,
       "height": 400,
-      "componentId": "cd3c3953-3c6a-4930-9a4b-dd51d0d56dde",
+      "componentId": "368e50ae-374f-4911-8516-709644f3a597",
       "dimensionUnit": "count"
     },
     {
@@ -89,7 +89,7 @@
       "left": 3,
       "width": 20,
       "height": 400,
-      "componentId": "cd3c3953-3c6a-4930-9a4b-dd51d0d56dde",
+      "componentId": "368e50ae-374f-4911-8516-709644f3a597",
       "dimensionUnit": "count"
     }
   ]

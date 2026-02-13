@@ -1,8 +1,8 @@
 {
-  "id": "419fed61-54b0-4b2f-a1ab-5d6a789ad198",
+  "id": "3b06135d-609b-4d02-b353-4401be6b0f0c",
   "name": "kanban1",
   "type": "Kanban",
-  "pageId": "a2175ebc-2cb4-4906-8c9e-80920aee06f0",
+  "pageId": "077ea7ee-70ef-4169-8bed-ccd88b253eb7",
   "parent": null,
   "properties": {
     "columnData": {
@@ -64,23 +64,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "a22b8e1f-5316-4314-a2ae-abecb4995992",
+      "id": "51af0eac-4f5e-4624-accc-ef0702be28a9",
       "type": "desktop",
-      "top": 500,
+      "top": 450,
       "left": 1,
       "width": 30,
       "height": 490,
-      "componentId": "419fed61-54b0-4b2f-a1ab-5d6a789ad198",
+      "componentId": "3b06135d-609b-4d02-b353-4401be6b0f0c",
       "dimensionUnit": "count"
     },
     {
-      "id": "81fc4729-9e71-4d5b-b3de-f854e8b5cc5d",
+      "id": "d59b1b22-100d-436a-9c60-fd35c277fd86",
       "type": "mobile",
-      "top": 570,
-      "left": 3,
+      "top": 450,
+      "left": 1,
       "width": 40,
       "height": 490,
-      "componentId": "419fed61-54b0-4b2f-a1ab-5d6a789ad198",
+      "componentId": "3b06135d-609b-4d02-b353-4401be6b0f0c",
       "dimensionUnit": "count"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "id": "48698cdb-10ea-43d1-b618-8d01cf75cf0b",
-  "name": "text2",
+  "id": "ae496bff-a0af-483c-8ce1-2a4ea7d5aacd",
+  "name": "text1",
   "type": "Text",
-  "pageId": "a2175ebc-2cb4-4906-8c9e-80920aee06f0",
-  "parent": "419fed61-54b0-4b2f-a1ab-5d6a789ad198",
+  "pageId": "077ea7ee-70ef-4169-8bed-ccd88b253eb7",
+  "parent": "3b06135d-609b-4d02-b353-4401be6b0f0c",
   "properties": {
     "textFormat": {
       "value": "html"
@@ -12,7 +12,7 @@
       "value": "{{false}}"
     },
     "text": {
-      "value": "{{cardData.description}}"
+      "value": "{{cardData.title}}"
     },
     "loadingState": {
       "value": "{{false}}"
@@ -23,8 +23,11 @@
     "visibility": {
       "value": "{{true}}"
     },
+    "fontWeight": {
+      "value": "bold"
+    },
     "textSize": {
-      "value": 14
+      "value": 16
     },
     "textColor": {
       "value": "var(--cc-primary-text)"
@@ -39,7 +42,7 @@
       "value": "{{false}}"
     },
     "text": {
-      "value": "{{cardData.description}}"
+      "value": "{{cardData.title}}"
     },
     "loadingState": {
       "value": "{{false}}"
@@ -50,8 +53,11 @@
     "visibility": {
       "value": "{{true}}"
     },
+    "fontWeight": {
+      "value": "bold"
+    },
     "textSize": {
-      "value": 14
+      "value": 16
     },
     "textColor": {
       "value": "var(--cc-primary-text)"
@@ -73,23 +79,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "7e70acfe-1a98-414a-b3ae-b6f4a12631f3",
+      "id": "0e3d8fb1-3cd6-4a30-afb1-6d2d3763442e",
       "type": "desktop",
-      "top": 50,
+      "top": 20,
       "left": 4,
       "width": 13.953488372093023,
       "height": 30,
-      "componentId": "48698cdb-10ea-43d1-b618-8d01cf75cf0b",
+      "componentId": "ae496bff-a0af-483c-8ce1-2a4ea7d5aacd",
       "dimensionUnit": "count"
     },
     {
-      "id": "9ee8ca72-40b1-41a4-bd97-e24d22cae611",
+      "id": "203ae808-55b0-48a5-9f84-366e513ec0fc",
       "type": "mobile",
-      "top": 50,
+      "top": 20,
       "left": 4,
       "width": 13.953488372093023,
       "height": 30,
-      "componentId": "48698cdb-10ea-43d1-b618-8d01cf75cf0b",
+      "componentId": "ae496bff-a0af-483c-8ce1-2a4ea7d5aacd",
       "dimensionUnit": "count"
     }
   ]
