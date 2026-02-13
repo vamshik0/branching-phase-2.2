@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Cyrus Brocha Podcast",
+  "appCoRelationId": "44ccff86-3c07-4762-8138-591ab505e50d",
+  "gitAppId": "91bb791d-0157-47eb-9c0d-f2144081c02e",
+  "branchName": "pod-1",
+  "gitVersionName": "pod-1",
+  "gitVersionId": "9b73e606-bf70-4202-8af8-961458d4f556",
+  "tooljetVersion": "3.20.92-ee-lts",
+  "createdAt": "2026-02-13T08:30:02.390Z",
+  "updatedAt": "2026-02-13T08:30:02.390Z"
+}
