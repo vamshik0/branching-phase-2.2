@@ -1,0 +1,17 @@
+{
+  "id": "ab3d9f0b-f71f-4762-9c30-c0e34fcb995b",
+  "name": "Night Watchman",
+  "type": "front-end",
+  "slug": "ab3d9f0b-f71f-4762-9c30-c0e34fcb995b",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-13T08:59:32.943Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "sentfast",
+  "tooljetVersion": "3.20.92-ee-lts"
+}
