@@ -1,12 +1,12 @@
 {
-  "id": "9f4a084f-d77f-495d-8416-752ccbd314cb",
+  "id": "c5fb7d29-9caf-4aa6-9abf-fddc4057e64c",
   "name": "button1",
   "type": "Button",
-  "pageId": "077ea7ee-70ef-4169-8bed-ccd88b253eb7",
+  "pageId": "42366781-692d-4c9f-a017-d61398857cca",
   "parent": null,
   "properties": {
     "text": {
-      "value": "Button"
+      "value": "restApi Event - {{queries.0f0ccec4-0ca6-4849-bdb8-8f96e90f9680.data.title}}"
     },
     "visibility": {
       "value": "{{true}}"
@@ -60,11 +60,7 @@
       "value": "primary"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -76,23 +72,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "0027ddf0-6396-4de3-82fa-b49791cb2b6d",
+      "id": "c1cefaac-2e9d-4374-a381-452314e469bf",
       "type": "desktop",
-      "top": 150,
-      "left": 19,
-      "width": 4,
+      "top": 90,
+      "left": 2,
+      "width": 11,
       "height": 40,
-      "componentId": "9f4a084f-d77f-495d-8416-752ccbd314cb",
+      "componentId": "c5fb7d29-9caf-4aa6-9abf-fddc4057e64c",
       "dimensionUnit": "count"
     },
     {
-      "id": "98f82f40-df98-4397-9391-d019f02b1d0b",
+      "id": "21de476c-2fc1-4109-ba76-4687e162edaf",
       "type": "mobile",
-      "top": 200,
-      "left": 20,
+      "top": 90,
+      "left": 2,
       "width": 4,
       "height": 40,
-      "componentId": "9f4a084f-d77f-495d-8416-752ccbd314cb",
+      "componentId": "c5fb7d29-9caf-4aa6-9abf-fddc4057e64c",
       "dimensionUnit": "count"
     }
   ]

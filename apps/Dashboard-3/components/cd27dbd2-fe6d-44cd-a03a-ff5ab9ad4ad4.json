@@ -1,8 +1,8 @@
 {
-  "id": "0378999a-e08d-4a03-b8db-84635135dbda",
+  "id": "cd27dbd2-fe6d-44cd-a03a-ff5ab9ad4ad4",
   "name": "table1",
   "type": "Table",
-  "pageId": "3f740c55-5a9b-4bf7-83c2-87b03d82802d",
+  "pageId": "42366781-692d-4c9f-a017-d61398857cca",
   "parent": null,
   "properties": {
     "title": {
@@ -18,7 +18,7 @@
       "value": "rawJson"
     },
     "data": {
-      "value": "{{queries.bdb4431e-a438-4056-a7f1-56308d0ca6a5.data}}"
+      "value": "{{queries.d36e8ecf-bc63-4c0d-bcd3-3707782ce4f3.data}}"
     },
     "useDynamicColumn": {
       "value": "{{false}}"
@@ -207,7 +207,7 @@
       "left": 2,
       "width": 11,
       "height": 350,
-      "componentId": "0378999a-e08d-4a03-b8db-84635135dbda",
+      "componentId": "cd27dbd2-fe6d-44cd-a03a-ff5ab9ad4ad4",
       "dimensionUnit": "count"
     },
     {
@@ -217,7 +217,7 @@
       "left": 2,
       "width": 25,
       "height": 460,
-      "componentId": "0378999a-e08d-4a03-b8db-84635135dbda",
+      "componentId": "cd27dbd2-fe6d-44cd-a03a-ff5ab9ad4ad4",
       "dimensionUnit": "count"
     }
   ]
