@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "T-Hub-1",
+  "appCoRelationId": "0ca02c83-78ff-4027-9420-761c89a915ea",
+  "gitAppId": "4269dd94-90e0-407a-8558-973dee4f78a5",
+  "branchName": "main",
+  "gitVersionName": "v1",
+  "gitVersionId": "f1230cca-188e-4699-bcc4-8e49f73f9a73",
+  "tooljetVersion": "3.20.92-ee-lts",
+  "createdAt": "2026-02-13T12:31:11.863Z",
+  "updatedAt": "2026-02-13T12:31:11.863Z"
+}
