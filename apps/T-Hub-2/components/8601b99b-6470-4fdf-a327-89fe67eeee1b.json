@@ -1,0 +1,104 @@
+{
+  "id": "8601b99b-6470-4fdf-a327-89fe67eeee1b",
+  "name": "text1",
+  "type": "Text",
+  "pageId": "0ff80589-644a-4355-a8f1-54ac69de93ca",
+  "parent": "23fdc1cf-1756-4c41-9652-58ca43729c56-header",
+  "properties": {
+    "textFormat": {
+      "value": "html"
+    },
+    "dynamicHeight": {
+      "value": "{{false}}"
+    },
+    "text": {
+      "value": "Form title"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "fontWeight": {
+      "value": "bold"
+    },
+    "textSize": {
+      "value": 16
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "verticalAlignment": {
+      "value": "center"
+    }
+  },
+  "general": {},
+  "styles": {
+    "textFormat": {
+      "value": "html"
+    },
+    "dynamicHeight": {
+      "value": "{{false}}"
+    },
+    "text": {
+      "value": "Form title"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "fontWeight": {
+      "value": "bold"
+    },
+    "textSize": {
+      "value": 16
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "verticalAlignment": {
+      "value": "center"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "f79c5d9b-2ae6-4d32-b4ef-31ba1900e011",
+      "type": "desktop",
+      "top": 10,
+      "left": 1,
+      "width": 13.953488372093023,
+      "height": 40,
+      "componentId": "8601b99b-6470-4fdf-a327-89fe67eeee1b",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "963343b0-2e36-4c3d-9838-91e119dd4d67",
+      "type": "mobile",
+      "top": 10,
+      "left": 1,
+      "width": 13.953488372093023,
+      "height": 40,
+      "componentId": "8601b99b-6470-4fdf-a327-89fe67eeee1b",
+      "dimensionUnit": "count"
+    }
+  ]
+}

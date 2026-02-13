@@ -1,5 +1,5 @@
 {
-  "id": "1c36fd39-03be-4b44-bc19-16c93c0a4cb6",
+  "id": "ed36ae53-88e6-4055-a965-33e852620ee0",
   "name": "tooljetdb1",
   "options": {
     "operation": "list_rows",
@@ -9,7 +9,7 @@
     "join_table": {
       "joins": [
         {
-          "id": 1770986030207,
+          "id": 1770986600261,
           "conditions": {
             "operator": "AND",
             "conditionsList": [
@@ -17,8 +17,7 @@
                 "operator": "=",
                 "leftField": {
                   "table": "de6d4cc0-7031-4bc5-af21-88a8f47ed8fd"
-                },
-                "rightField": {}
+                }
               }
             ]
           },
@@ -45,8 +44,7 @@
       ]
     },
     "list_rows": {},
-    "runOnPageLoad": true,
-    "organization_id": "c1d140ca-18c9-4df9-abba-a3bd27687dfc"
+    "runOnPageLoad": true
   },
   "dataSourceId": "e1b2f273-f4fe-42fb-a4a4-e4a71ea6c4b1",
   "appVersionId": "632b8c7b-8548-4af4-a358-232484a07dcf"
