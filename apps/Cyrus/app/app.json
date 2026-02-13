@@ -1,0 +1,17 @@
+{
+  "id": "44ccff86-3c07-4762-8138-591ab505e50d",
+  "name": "Cyrus",
+  "type": "front-end",
+  "slug": "44ccff86-3c07-4762-8138-591ab505e50d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-13T06:47:10.386Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "archive",
+  "tooljetVersion": "3.20.92-ee-lts"
+}
