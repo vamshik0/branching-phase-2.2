@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Cyrus",
+  "appCoRelationId": "44ccff86-3c07-4762-8138-591ab505e50d",
+  "gitAppId": "91bb791d-0157-47eb-9c0d-f2144081c02e",
+  "branchName": "pod-3",
+  "gitVersionName": "pod-3",
+  "gitVersionId": "42d59c01-b4b7-4984-907c-37aebb7baadd",
+  "tooljetVersion": "3.20.92-ee-lts",
+  "createdAt": "2026-02-13T07:17:11.764Z",
+  "updatedAt": "2026-02-13T07:17:11.764Z"
+}
