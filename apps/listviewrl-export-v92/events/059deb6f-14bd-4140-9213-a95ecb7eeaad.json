@@ -1,0 +1,14 @@
+{
+  "id": "059deb6f-14bd-4140-9213-a95ecb7eeaad",
+  "name": "onDataQuerySuccess",
+  "index": 0,
+  "event": {
+    "eventId": "onDataQuerySuccess",
+    "message": "Ticket Has Updated",
+    "actionId": "show-alert",
+    "alertType": "info"
+  },
+  "sourceId": "e695e5e6-08b2-4da8-8bd9-5e823e748d7e",
+  "target": "data_query",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}

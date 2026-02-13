@@ -1,0 +1,18 @@
+{
+  "id": "49ac2f29-3115-47b6-a4f1-fe100b867b2d",
+  "name": "onOpen",
+  "index": 0,
+  "event": {
+    "eventId": "onOpen",
+    "message": "Hello world!",
+    "queryId": "d4ca47e3-1d02-4c62-a83a-4ed16ba391ad",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "modal1",
+    "queryName": "generateTicketData",
+    "parameters": {}
+  },
+  "sourceId": "3f21e55e-9549-405e-830c-ee3f1b081836",
+  "target": "component",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}
