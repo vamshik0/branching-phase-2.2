@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Night Watchman",
+  "appCoRelationId": "ab3d9f0b-f71f-4762-9c30-c0e34fcb995b",
+  "gitAppId": "367d7caf-3c2b-44f8-8d7a-a73e37ef761c",
+  "branchName": "mid-1",
+  "gitVersionName": "mid-1",
+  "gitVersionId": "faf182e7-bce4-4afc-8207-f7cca3fb8269",
+  "tooljetVersion": "3.20.92-ee-lts",
+  "createdAt": "2026-02-13T09:01:04.548Z",
+  "updatedAt": "2026-02-13T09:01:04.548Z"
+}
