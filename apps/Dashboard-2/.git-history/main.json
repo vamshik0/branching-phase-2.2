@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Dashboard-2",
+  "appCoRelationId": "117c2ab6-5b12-4c68-bbe7-afd566b2a341",
+  "gitAppId": "0990a478-302b-4143-81df-ba0362475a9a",
+  "branchName": "main",
+  "gitVersionName": "v1",
+  "gitVersionId": "0095aa7c-5caa-438f-bf6e-e6bc4d1dbf59",
+  "tooljetVersion": "3.20.92-ee-lts",
+  "createdAt": "2026-02-13T09:48:32.541Z",
+  "updatedAt": "2026-02-13T09:48:32.541Z"
+}
