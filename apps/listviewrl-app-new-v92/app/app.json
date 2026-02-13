@@ -1,0 +1,17 @@
+{
+  "id": "1f08b220-dcd3-4f5e-977b-782cc652e1fa",
+  "name": "listviewrl-app-new-v92",
+  "type": "front-end",
+  "slug": "1f08b220-dcd3-4f5e-977b-782cc652e1fa",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-13T05:38:35.259Z",
+  "organizationId": "1890ff53-6548-418d-be04-633de2dc9312",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "folderupload",
+  "tooljetVersion": "3.20.92-ee-lts"
+}

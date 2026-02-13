@@ -1,0 +1,20 @@
+{
+  "id": "eeb8db9c-961a-48e1-b59a-ec61dbf0e815",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "bc0adf46-2f2b-4b89-9d21-69d0d16dc122",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "button8",
+    "queryName": "EditMode",
+    "parameters": {
+      "value": "true"
+    }
+  },
+  "sourceId": "739cd47b-546a-4927-8e38-574297deb9eb",
+  "target": "component",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}
