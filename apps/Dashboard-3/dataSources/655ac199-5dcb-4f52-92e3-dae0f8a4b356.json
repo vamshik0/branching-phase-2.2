@@ -1,10 +1,10 @@
 {
-  "id": "6a77d3cb-22f2-47f7-b10f-73893e702d1e",
+  "id": "655ac199-5dcb-4f52-92e3-dae0f8a4b356",
   "name": "restapidefault",
   "kind": "restapi",
   "type": "static",
   "pluginId": null,
   "appVersionId": null,
-  "organizationId": "fe0c7509-4963-402b-ae6e-7d555ed52fe5",
+  "organizationId": "1890ff53-6548-418d-be04-633de2dc9312",
   "scope": "global"
 }

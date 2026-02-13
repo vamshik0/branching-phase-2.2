@@ -1,11 +1,11 @@
 {
-  "id": "d36e8ecf-bc63-4c0d-bcd3-3707782ce4f3",
+  "id": "bdb4431e-a438-4056-a7f1-56308d0ca6a5",
   "name": "tooljetdb1",
   "options": {
     "operation": "list_rows",
     "transformationLanguage": "javascript",
     "enableTransformation": false,
-    "table_id": "e64763cf-918c-4970-99cc-6c6794bb3196",
+    "table_id": "c5417c4c-00ab-4b3d-b10c-0aa80abd53ff",
     "join_table": {
       "joins": [
         {
@@ -16,7 +16,7 @@
               {
                 "operator": "=",
                 "leftField": {
-                  "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+                  "table": "c5417c4c-00ab-4b3d-b10c-0aa80abd53ff"
                 },
                 "rightField": {}
               }
@@ -26,28 +26,28 @@
         }
       ],
       "from": {
-        "name": "e64763cf-918c-4970-99cc-6c6794bb3196",
+        "name": "c5417c4c-00ab-4b3d-b10c-0aa80abd53ff",
         "type": "Table"
       },
       "fields": [
         {
           "name": "id",
-          "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+          "table": "c5417c4c-00ab-4b3d-b10c-0aa80abd53ff"
         },
         {
           "name": "name",
-          "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+          "table": "c5417c4c-00ab-4b3d-b10c-0aa80abd53ff"
         },
         {
           "name": "std",
-          "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+          "table": "c5417c4c-00ab-4b3d-b10c-0aa80abd53ff"
         }
       ]
     },
     "list_rows": {},
     "runOnPageLoad": true,
-    "organization_id": "fe0c7509-4963-402b-ae6e-7d555ed52fe5"
+    "organization_id": "1890ff53-6548-418d-be04-633de2dc9312"
   },
-  "dataSourceId": "e1b2f273-f4fe-42fb-a4a4-e4a71ea6c4b1",
+  "dataSourceId": "d9a56302-8c10-423e-9bbc-a3ef1244456c",
   "appVersionId": "8418c829-1e95-41b6-a3b7-536d39ebcc0b"
 }
