@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "T-Hub-1",
+  "appCoRelationId": "0ca02c83-78ff-4027-9420-761c89a915ea",
+  "gitAppId": "4269dd94-90e0-407a-8558-973dee4f78a5",
+  "branchName": "idea-1",
+  "gitVersionName": "idea-1",
+  "gitVersionId": "b01d15ab-fe02-4b68-88b2-31b8d909d20c",
+  "tooljetVersion": "3.20.92-ee-lts",
+  "createdAt": "2026-02-13T12:29:55.061Z",
+  "updatedAt": "2026-02-13T12:29:55.061Z"
+}
