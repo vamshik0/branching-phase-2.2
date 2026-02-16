@@ -1,0 +1,17 @@
+{
+  "id": "924aac3e-c3ec-49a0-b3b3-f16295d91721",
+  "name": "builder-app",
+  "type": "front-end",
+  "slug": "924aac3e-c3ec-49a0-b3b3-f16295d91721",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-16T06:42:30.844Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "853cd3a9-9472-45ed-bc8a-27766c191736",
+  "icon": "folderupload",
+  "tooljetVersion": "3.20.92-ee-lts"
+}

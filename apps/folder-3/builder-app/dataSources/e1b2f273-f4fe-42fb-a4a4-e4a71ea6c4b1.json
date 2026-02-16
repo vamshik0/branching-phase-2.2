@@ -1,0 +1,10 @@
+{
+  "id": "e1b2f273-f4fe-42fb-a4a4-e4a71ea6c4b1",
+  "name": "tooljetdbdefault",
+  "kind": "tooljetdb",
+  "type": "static",
+  "pluginId": null,
+  "appVersionId": null,
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "scope": "global"
+}
