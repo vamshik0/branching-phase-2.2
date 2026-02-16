@@ -1,0 +1,18 @@
+{
+  "id": "20246052-f895-4ffe-8e44-9166b1d0521e",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "565f7f92-c196-4021-a8aa-547a7c878e42",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "button7",
+    "queryName": "Update",
+    "parameters": {}
+  },
+  "sourceId": "74d71f2d-5a71-481c-a9a9-e38fe13909ae",
+  "target": "component",
+  "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
+}
