@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "export-listviewrl-app",
+  "appCoRelationId": "1f08b220-dcd3-4f5e-977b-782cc652e1fa",
+  "gitAppId": "09b3bb5d-7869-4f23-a983-cb25433dddf5",
+  "branchName": "bug-1",
+  "gitVersionName": "bug-1",
+  "gitVersionId": "d340569d-3df5-4557-8dc9-afcd3a5e8e3d",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-16T07:49:55.753Z",
+  "updatedAt": "2026-02-16T07:49:55.753Z"
+}
