@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Preston prime",
+  "appCoRelationId": "96fa2699-c261-4a88-9393-4a6c2800bda6",
+  "gitAppId": "0811525e-d86e-417d-a58c-8c4d749e6b7b",
+  "branchName": "dev-1",
+  "gitVersionName": "dev-1",
+  "gitVersionId": "d93786a8-4016-444d-a482-5926f60f66d9",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-16T09:40:02.513Z",
+  "updatedAt": "2026-02-16T09:40:02.513Z"
+}

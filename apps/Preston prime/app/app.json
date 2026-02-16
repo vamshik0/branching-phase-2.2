@@ -1,0 +1,17 @@
+{
+  "id": "96fa2699-c261-4a88-9393-4a6c2800bda6",
+  "name": "Preston prime",
+  "type": "front-end",
+  "slug": "96fa2699-c261-4a88-9393-4a6c2800bda6",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-16T09:31:53.698Z",
+  "organizationId": "fe0c7509-4963-402b-ae6e-7d555ed52fe5",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "globe",
+  "tooljetVersion": "3.20.93-ee-lts"
+}
