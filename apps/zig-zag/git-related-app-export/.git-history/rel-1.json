@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "git-related-app-export",
+  "appCoRelationId": "05be4fc0-f4a5-4e85-8be8-6ca1ad7a4c59",
+  "gitAppId": "64d8d0ef-c1f1-4521-86ce-ca45eb20be89",
+  "branchName": "rel-1",
+  "gitVersionName": "rel-1",
+  "gitVersionId": "9441e758-000a-4acb-8391-81322c3047cf",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-16T08:08:54.757Z",
+  "updatedAt": "2026-02-16T08:08:54.757Z"
+}
