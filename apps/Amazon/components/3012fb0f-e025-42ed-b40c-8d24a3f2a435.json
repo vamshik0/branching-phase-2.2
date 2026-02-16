@@ -6,7 +6,7 @@
   "parent": null,
   "properties": {
     "text": {
-      "value": "Render data"
+      "value": "Render data - {{globals.appVersion.name}}"
     },
     "visibility": {
       "value": "{{true}}"
@@ -60,7 +60,11 @@
       "value": "primary"
     }
   },
-  "generalStyles": {},
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -76,7 +80,7 @@
       "type": "desktop",
       "top": 230,
       "left": 13,
-      "width": 4,
+      "width": 6,
       "height": 40,
       "componentId": "3012fb0f-e025-42ed-b40c-8d24a3f2a435",
       "dimensionUnit": "count"

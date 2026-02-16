@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Amazon",
+  "appCoRelationId": "93ccc217-13dd-4173-a2e8-12d61f95895c",
+  "gitAppId": "a9a9e985-e80d-4ae5-9d07-d4ce7127c8c2",
+  "branchName": "amazon-new-version",
+  "gitVersionName": "amazon-new-version",
+  "gitVersionId": "75f8467d-8df4-4dc8-9d8d-fe9bc8ffdcf7",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-16T11:40:16.274Z",
+  "updatedAt": "2026-02-16T11:40:16.274Z"
+}
