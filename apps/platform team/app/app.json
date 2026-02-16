@@ -1,0 +1,17 @@
+{
+  "id": "93462f29-5918-4a7d-9d71-cb1f7eabf04f",
+  "name": "platform team",
+  "type": "front-end",
+  "slug": "93462f29-5918-4a7d-9d71-cb1f7eabf04f",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-16T11:54:51.223Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "apps",
+  "tooljetVersion": "3.20.93-ee-lts"
+}

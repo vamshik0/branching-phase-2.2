@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "platform team",
+  "appCoRelationId": "93462f29-5918-4a7d-9d71-cb1f7eabf04f",
+  "gitAppId": "ea3318ba-484f-4e05-8388-b7670516bcdd",
+  "branchName": "team-1",
+  "gitVersionName": "team-1",
+  "gitVersionId": "7bd9aa20-3bda-4dd0-a645-3f4efbe63d9d",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-16T12:09:13.631Z",
+  "updatedAt": "2026-02-16T12:09:13.631Z"
+}
