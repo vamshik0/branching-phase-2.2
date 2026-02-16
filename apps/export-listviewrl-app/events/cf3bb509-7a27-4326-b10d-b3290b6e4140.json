@@ -1,5 +1,5 @@
 {
-  "id": "8470dce5-7303-4754-a502-bd560bdfda20",
+  "id": "cf3bb509-7a27-4326-b10d-b3290b6e4140",
   "name": "onDataQuerySuccess",
   "index": 0,
   "event": {
@@ -11,7 +11,7 @@
     "queryName": "fetch",
     "parameters": {}
   },
-  "sourceId": "3db9e77d-d254-414f-8cb4-d6dfcc451f1a",
+  "sourceId": "bd4a9ccb-b68f-43fe-b47c-d1d4be59a220",
   "target": "data_query",
   "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
 }

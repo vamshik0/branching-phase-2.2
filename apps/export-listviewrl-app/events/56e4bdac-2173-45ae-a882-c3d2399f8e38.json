@@ -1,18 +1,18 @@
 {
-  "id": "013c3e68-5157-4c0b-ac82-7d78a4b88b74",
+  "id": "56e4bdac-2173-45ae-a882-c3d2399f8e38",
   "name": "onClick",
   "index": 0,
   "event": {
     "eventId": "onClick",
     "message": "Hello world!",
-    "queryId": "4b583213-1b43-457e-b1d6-982ce0cd38a7",
+    "queryId": "3db9e77d-d254-414f-8cb4-d6dfcc451f1a",
     "actionId": "run-query",
     "alertType": "info",
-    "component": "button4",
-    "queryName": "create",
+    "component": "icon1",
+    "queryName": "delete",
     "parameters": {}
   },
-  "sourceId": "14fea9e3-1dbf-4f2a-9d3f-0f7feb1e9066",
+  "sourceId": "ada4dc97-6c22-47c1-a044-e338bf742d79",
   "target": "component",
   "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
 }

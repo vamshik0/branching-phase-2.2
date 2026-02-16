@@ -1,5 +1,5 @@
 {
-  "id": "bf591ace-186e-465f-b7e6-f1ae4d6aaf09",
+  "id": "096e4e84-4ead-4d26-a934-4891d85a7e97",
   "name": "onSelect",
   "index": 0,
   "event": {
@@ -8,11 +8,11 @@
     "queryId": "3dc74352-4bcb-42ba-924b-336e1a6a31f3",
     "actionId": "run-query",
     "alertType": "info",
-    "component": "dropdown2",
+    "component": "dropdown1",
     "queryName": "fetch",
     "parameters": {}
   },
-  "sourceId": "1b6e753d-ad60-4f07-b824-b251b331ae23",
+  "sourceId": "ace7478a-4283-4fec-b0ac-583e119d634a",
   "target": "component",
   "appVersionId": "8bf91a52-ff54-4406-964f-33d48aee7805"
 }
