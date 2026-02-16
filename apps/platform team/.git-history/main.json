@@ -4,9 +4,9 @@
   "appCoRelationId": "93462f29-5918-4a7d-9d71-cb1f7eabf04f",
   "gitAppId": "ea3318ba-484f-4e05-8388-b7670516bcdd",
   "branchName": "main",
-  "gitVersionName": "v1_1",
-  "gitVersionId": "d46df4d1-9f49-4571-a985-d85f04d7c5ad",
+  "gitVersionName": "v2",
+  "gitVersionId": "e6723b7f-1afc-4824-a2bb-f933e28d9924",
   "tooljetVersion": "3.20.93-ee-lts",
   "createdAt": "2026-02-16T11:59:12.158Z",
-  "updatedAt": "2026-02-16T12:06:06.524Z"
+  "updatedAt": "2026-02-16T12:14:57.324Z"
 }
