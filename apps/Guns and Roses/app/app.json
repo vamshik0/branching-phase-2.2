@@ -1,0 +1,17 @@
+{
+  "id": "4f910c44-5f28-4b55-921f-88bbcc318e3d",
+  "name": "Guns and Roses",
+  "type": "front-end",
+  "slug": "4f910c44-5f28-4b55-921f-88bbcc318e3d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-16T11:05:05.789Z",
+  "organizationId": "fe0c7509-4963-402b-ae6e-7d555ed52fe5",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "draghandle",
+  "tooljetVersion": "3.20.93-ee-lts"
+}
