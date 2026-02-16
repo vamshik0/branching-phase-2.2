@@ -17,7 +17,8 @@
                 "operator": "=",
                 "leftField": {
                   "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
-                }
+                },
+                "rightField": {}
               }
             ]
           },
@@ -44,7 +45,8 @@
       ]
     },
     "list_rows": {},
-    "runOnPageLoad": true
+    "runOnPageLoad": true,
+    "organization_id": "fe0c7509-4963-402b-ae6e-7d555ed52fe5"
   },
   "dataSourceId": "e1b2f273-f4fe-42fb-a4a4-e4a71ea6c4b1",
   "appVersionId": "1d656d65-65ff-48a5-8ae1-3558e55bde73"
