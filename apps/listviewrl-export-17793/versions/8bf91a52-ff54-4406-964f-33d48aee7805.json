@@ -13,21 +13,19 @@
   "pageSettings": {
     "properties": {
       "disableMenu": {
-        "value": "{{false}}",
+        "value": "{{true}}",
         "fxActive": false
-      },
-      "hideHeader": false,
-      "position": "top"
+      }
     }
   },
   "showViewerNavigation": true,
-  "homePageId": "1218d1c5-abae-41e1-ba51-b6cc02cc26f0",
-  "versionType": "version",
+  "homePageId": "9c4cb7c0-8b73-43c8-91a1-36d50ed69c41",
+  "versionType": "branch",
   "appId": "1f08b220-dcd3-4f5e-977b-782cc652e1fa",
-  "currentEnvironmentId": "e1ee77dd-697c-4c35-8014-eb4d2df49257",
+  "currentEnvironmentId": "d7c9f126-9431-4aa4-9e98-a139c9285a4b",
   "promotedFrom": null,
-  "status": "PUBLISHED",
-  "description": "second",
+  "status": "DRAFT",
+  "description": null,
   "publishedAt": null,
   "releasedAt": null
 }
