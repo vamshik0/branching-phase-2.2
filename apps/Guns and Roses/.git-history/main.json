@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Guns and Roses",
+  "appCoRelationId": "4f910c44-5f28-4b55-921f-88bbcc318e3d",
+  "gitAppId": "e9f09be8-8d03-4b6e-8241-4415bdceb753",
+  "branchName": "main",
+  "gitVersionName": "v1",
+  "gitVersionId": "3919e838-73c1-4812-a629-f6591bbb0e6b",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-16T11:07:47.374Z",
+  "updatedAt": "2026-02-16T11:07:47.374Z"
+}
