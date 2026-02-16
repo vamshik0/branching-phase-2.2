@@ -1,17 +1,17 @@
 {
   "id": "93ccc217-13dd-4173-a2e8-12d61f95895c",
-  "name": "Amazon",
+  "name": "Amazon-git",
   "type": "front-end",
   "slug": "93ccc217-13dd-4173-a2e8-12d61f95895c",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "currentVersionId": null,
-  "createdAt": "2026-02-11T06:20:30.892Z",
-  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "createdAt": "2026-02-16T11:30:06.576Z",
+  "organizationId": "fe0c7509-4963-402b-ae6e-7d555ed52fe5",
   "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
   "icon": "layers",
-  "tooljetVersion": "3.20.75-ee-lts"
+  "tooljetVersion": "3.20.93-ee-lts"
 }

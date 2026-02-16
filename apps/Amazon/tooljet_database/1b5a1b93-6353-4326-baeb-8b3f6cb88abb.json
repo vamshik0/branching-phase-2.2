@@ -1,12 +1,12 @@
 {
-  "id": "de6d4cc0-7031-4bc5-af21-88a8f47ed8fd",
-  "table_name": "students",
+  "id": "1b5a1b93-6353-4326-baeb-8b3f6cb88abb",
+  "table_name": "students_1771241406500",
   "schema": {
     "columns": [
       {
         "column_name": "id",
         "data_type": "integer",
-        "column_default": "nextval(\"workspace_c1d140ca-18c9-4df9-abba-a3bd27687dfc\".\"de6d4cc0-7031-4bc5-af21-88a8f47ed8fd_id_seq\"",
+        "column_default": "nextval(\"workspace_fe0c7509-4963-402b-ae6e-7d555ed52fe5\".\"1b5a1b93-6353-4326-baeb-8b3f6cb88abb_id_seq\"",
         "character_maximum_length": null,
         "numeric_precision": 32,
         "constraints_type": {
