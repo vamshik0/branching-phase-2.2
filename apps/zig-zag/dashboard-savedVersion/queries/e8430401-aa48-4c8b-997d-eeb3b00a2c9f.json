@@ -1,0 +1,51 @@
+{
+  "id": "e8430401-aa48-4c8b-997d-eeb3b00a2c9f",
+  "name": "getStudents",
+  "options": {
+    "operation": "list_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "table_id": "e64763cf-918c-4970-99cc-6c6794bb3196",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1771328614140,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+                }
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "e64763cf-918c-4970-99cc-6c6794bb3196",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+        },
+        {
+          "name": "name",
+          "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+        },
+        {
+          "name": "std",
+          "table": "e64763cf-918c-4970-99cc-6c6794bb3196"
+        }
+      ]
+    },
+    "list_rows": {},
+    "runOnPageLoad": true
+  },
+  "dataSourceId": "d9a56302-8c10-423e-9bbc-a3ef1244456c",
+  "appVersionId": "c5e6d4e7-8e26-4af1-bc87-905a493c7d78"
+}
