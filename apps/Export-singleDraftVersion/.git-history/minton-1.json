@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Export-singleDraftVersion",
+  "appCoRelationId": "05be4fc0-f4a5-4e85-8be8-6ca1ad7a4c59",
+  "gitAppId": "1d1f7c88-7053-4c92-ba3d-c73000949fae",
+  "branchName": "minton-1",
+  "gitVersionName": "minton-1",
+  "gitVersionId": "01c10842-18b7-4217-a0a7-1b42eff16ae7",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T08:36:21.275Z",
+  "updatedAt": "2026-02-17T08:36:21.275Z"
+}

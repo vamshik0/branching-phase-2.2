@@ -1,0 +1,17 @@
+{
+  "id": "05be4fc0-f4a5-4e85-8be8-6ca1ad7a4c59",
+  "name": "Export-singleDraftVersion",
+  "type": "front-end",
+  "slug": "05be4fc0-f4a5-4e85-8be8-6ca1ad7a4c59",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-17T05:53:24.624Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "share",
+  "tooljetVersion": "3.20.93-ee-lts"
+}
