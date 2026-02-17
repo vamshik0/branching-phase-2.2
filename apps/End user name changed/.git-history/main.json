@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0.0",
-  "gitAppName": "End user name",
+  "gitAppName": "End user name changed",
   "appCoRelationId": "6f33b253-22af-453e-9f64-3065540cc6a8",
   "gitAppId": "888027bf-6b00-4c48-82d7-25cdfc59bdb8",
   "branchName": "main",
-  "gitVersionName": "v5",
-  "gitVersionId": "541acfca-55ab-43a2-92fe-ba62c384210b",
+  "gitVersionName": "v6",
+  "gitVersionId": "01dd7454-049e-4e5e-a393-21b63c61614d",
   "tooljetVersion": "3.20.93-ee-lts",
   "createdAt": "2026-02-16T12:32:40.676Z",
-  "updatedAt": "2026-02-17T07:55:41.820Z"
+  "updatedAt": "2026-02-17T07:59:18.912Z"
 }
