@@ -3,15 +3,15 @@
   "name": "T-Hub-2",
   "type": "front-end",
   "slug": "0ca02c83-78ff-4027-9420-761c89a915ea",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "currentVersionId": null,
-  "createdAt": "2026-02-13T12:28:53.892Z",
-  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "createdAt": "2026-02-13T12:54:53.456Z",
+  "organizationId": "fe0c7509-4963-402b-ae6e-7d555ed52fe5",
   "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
   "icon": "grid",
-  "tooljetVersion": "3.20.92-ee-lts"
+  "tooljetVersion": "3.20.93-ee-lts"
 }
