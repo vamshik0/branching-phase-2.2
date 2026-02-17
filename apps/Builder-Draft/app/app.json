@@ -1,0 +1,17 @@
+{
+  "id": "e8fa035a-1000-45f6-acb7-2302ad01bb7a",
+  "name": "Builder-Draft",
+  "type": "front-end",
+  "slug": "e8fa035a-1000-45f6-acb7-2302ad01bb7a",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-17T09:28:46.093Z",
+  "organizationId": "1890ff53-6548-418d-be04-633de2dc9312",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "folderupload",
+  "tooljetVersion": "3.20.93-ee-lts"
+}

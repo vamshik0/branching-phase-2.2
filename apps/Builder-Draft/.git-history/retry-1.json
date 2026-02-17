@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Builder-Draft",
+  "appCoRelationId": "e8fa035a-1000-45f6-acb7-2302ad01bb7a",
+  "gitAppId": "f2ac97f5-4257-408b-a73d-c15c551adec7",
+  "branchName": "retry-1",
+  "gitVersionName": "retry-1",
+  "gitVersionId": "0c942d48-a13c-4cdc-9e80-956595fa6852",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T09:34:56.057Z",
+  "updatedAt": "2026-02-17T09:34:56.057Z"
+}
