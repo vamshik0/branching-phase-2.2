@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Snitch",
+  "appCoRelationId": "4e08fcc6-370e-4a57-b752-3cf98430b090",
+  "gitAppId": "97682b51-9f02-4f52-b25a-7b8d94325103",
+  "branchName": "factory-1",
+  "gitVersionName": "factory-1",
+  "gitVersionId": "a47ded40-aec9-4121-b13e-1506a8b60eb3",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T06:17:25.416Z",
+  "updatedAt": "2026-02-17T06:17:25.416Z"
+}
