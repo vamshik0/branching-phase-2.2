@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "dashboard-savedVersion",
+  "appCoRelationId": "014a8272-c133-4818-a2a3-43a10e5f23aa",
+  "gitAppId": "8d46e377-22a4-4068-8273-650b4af19ee4",
+  "branchName": "main",
+  "gitVersionName": "v2",
+  "gitVersionId": "a45023b6-6b9a-42ca-9a1c-ee78aecd553b",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T11:45:58.022Z",
+  "updatedAt": "2026-02-17T11:45:58.022Z"
+}
