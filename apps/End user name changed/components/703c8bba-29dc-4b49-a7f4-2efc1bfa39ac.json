@@ -52,6 +52,9 @@
     },
     "buttonToSubmit": {
       "value": "f9bb240b-0107-4d03-a6b1-2a103980041d"
+    },
+    "fields": {
+      "value": []
     }
   },
   "general": {},
@@ -81,7 +84,11 @@
       "value": "0px 0px 0px 0px #00000040"
     }
   },
-  "generalStyles": {},
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -97,7 +104,7 @@
       "type": "desktop",
       "top": 410,
       "left": 2,
-      "width": 15,
+      "width": 10,
       "height": 450,
       "componentId": "703c8bba-29dc-4b49-a7f4-2efc1bfa39ac",
       "dimensionUnit": "count"

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "End user name changed",
+  "appCoRelationId": "6f33b253-22af-453e-9f64-3065540cc6a8",
+  "gitAppId": "888027bf-6b00-4c48-82d7-25cdfc59bdb8",
+  "branchName": "end-5",
+  "gitVersionName": "end-5",
+  "gitVersionId": "6932a7e7-f87a-4595-8d38-d861ce7280fd",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T08:00:49.371Z",
+  "updatedAt": "2026-02-17T08:00:49.371Z"
+}
