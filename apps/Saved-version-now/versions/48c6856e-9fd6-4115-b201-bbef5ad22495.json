@@ -24,8 +24,8 @@
   "appId": "c643b08e-0c41-40c9-854b-c10c07df4706",
   "currentEnvironmentId": "d7c9f126-9431-4aa4-9e98-a139c9285a4b",
   "promotedFrom": null,
-  "status": "PUBLISHED",
-  "description": null,
+  "status": "DRAFT",
+  "description": "",
   "publishedAt": null,
   "releasedAt": null
 }
