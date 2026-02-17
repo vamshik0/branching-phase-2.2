@@ -1,0 +1,51 @@
+{
+  "id": "b84d0e09-3c0d-4f12-b209-d3cfe72d0d39",
+  "table_name": "students_1771321423635",
+  "schema": {
+    "columns": [
+      {
+        "column_name": "id",
+        "data_type": "integer",
+        "column_default": "nextval(\"workspace_1890ff53-6548-418d-be04-633de2dc9312\".\"b84d0e09-3c0d-4f12-b209-d3cfe72d0d39_id_seq\"",
+        "character_maximum_length": null,
+        "numeric_precision": 32,
+        "constraints_type": {
+          "is_not_null": true,
+          "is_primary_key": true,
+          "is_unique": false
+        },
+        "keytype": "PRIMARY KEY",
+        "configurations": {}
+      },
+      {
+        "column_name": "name",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "std",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      }
+    ],
+    "foreign_keys": []
+  }
+}
