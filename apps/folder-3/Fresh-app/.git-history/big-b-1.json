@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Fresh-app",
+  "appCoRelationId": "6e2e5a2b-3d76-4f48-88e6-561481183ffa",
+  "gitAppId": "49fe3daa-732a-45cc-a4db-5fcce0f2bec3",
+  "branchName": "big-b-1",
+  "gitVersionName": "big-b-1",
+  "gitVersionId": "7b54b623-2dd1-45e0-a134-ef93d530fd56",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T08:25:57.074Z",
+  "updatedAt": "2026-02-17T08:25:57.074Z"
+}

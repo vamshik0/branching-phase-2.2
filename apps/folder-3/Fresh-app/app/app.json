@@ -1,0 +1,17 @@
+{
+  "id": "6e2e5a2b-3d76-4f48-88e6-561481183ffa",
+  "name": "Fresh-app",
+  "type": "front-end",
+  "slug": "6e2e5a2b-3d76-4f48-88e6-561481183ffa",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-17T08:24:32.976Z",
+  "organizationId": "c1d140ca-18c9-4df9-abba-a3bd27687dfc",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "shield",
+  "tooljetVersion": "3.20.93-ee-lts"
+}
