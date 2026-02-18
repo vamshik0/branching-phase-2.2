@@ -1,0 +1,10 @@
+{
+  "id": "b8976a57-f257-4aad-8c9d-a20291a6c305",
+  "name": "clm-admin-service-v2",
+  "kind": "grpcv2",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "organizationId": "cb7d184e-9c62-4202-868e-59ef0703e740",
+  "scope": "global"
+}

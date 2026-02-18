@@ -1,0 +1,11 @@
+{
+  "id": "30381c56-2781-4fb6-a7cf-3c3a79e1e063",
+  "name": "disableRewardRequestGenerator",
+  "options": {
+    "code": "let rewardId = getMilestoneReward.data.milestone_reward.reward_id\n// Function to generate UUID\nfunction generateUUID() {\n  return \"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx\".replace(/[xy]/g, function (c) {\n    var r = (Math.random() * 16) | 0,\n      v = c === \"x\" ? r : (r & 0x3) | 0x8;\n    return v.toString(16);\n  });\n}\n\n// Function to get current time in seconds and nanoseconds\nfunction getCurrentTime() {\n  const now = new Date();\n  const seconds = Math.floor(now.getTime() / 1000);\n  const nanos = (now.getTime() % 1000) * 1e6; // convert remaining milliseconds to nanoseconds\n  return {\n    seconds: seconds,\n    nanos: nanos,\n  };\n}\n\nfunction stringToUUID(str) {\n  function s4(hash) {\n    return Math.floor((1 + hash) * 0x10000)\n      .toString(16)\n      .substring(1);\n  }\n\n  let hash = 0;\n  for (let i = 0; i < str.length; i++) {\n    hash = str.charCodeAt(i) + ((hash << 5) - hash);\n  }\n\n  // Split hash into parts and use them to format UUID\n  return (\n    s4(hash & 0xffff) +\n    s4((hash >>> 16) & 0xffff) +\n    \"-\" +\n    s4(hash & 0xffff) +\n    \"-\" +\n    s4((hash >>> 16) & 0xffff) +\n    \"-\" +\n    s4(hash & 0xffff) +\n    \"-\" +\n    s4(hash & 0xffff) +\n    s4((hash >>> 16) & 0xffff)\n  );\n}\n\n\nconst jsonData = {\n  request_context: {\n    request_id: generateUUID(),\n    request_time: getCurrentTime(),\n    client_id: stringToUUID(\"Marketing Dashboard\"),\n    channel: \"SWIGGY\",\n  },\n  market_place_context: {\n    marketplace_id: \"SWIGGY_IN\",\n    business_line_id: \"INSTAMART\",\n  },\n  reward_id: rewardId,\n  updated_by: current_user.email\n};\n\nreturn JSON.stringify(jsonData);\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

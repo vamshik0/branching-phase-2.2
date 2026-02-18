@@ -1,0 +1,10 @@
+{
+  "id": "d4a99de5-4251-4e66-81f4-b17ce9b31f92",
+  "name": "dash-enrichment-service",
+  "kind": "grpcv2",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "organizationId": "cb7d184e-9c62-4202-868e-59ef0703e740",
+  "scope": "global"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cbd016b9-bd9b-40b7-a00c-07b4bc9d90b6",
+  "name": "getCampaignResponseHandler",
+  "options": {
+    "code": "const milestoneCampaignObj = getMilestoneCampaign.data.milestone_campaign;\n\nif (milestoneCampaignObj && milestoneCampaignObj.campaign_id) {\n utils.showNotification({\n    title: \"SUCCESS\",\n    description: `Campaign fetched successfully. Campaign ID: ${milestoneCampaignObj.campaign_id}`,\n    notificationType: \"success\",\n    duration: 5,\n  });\n  editFlowCampaignInitialiser.trigger()\n} else {\n  utils.showNotification({\n    title: \"ERROR\",\n    description: `No campaign found with the given campaign id: ${milestoneCampaignObj.campaign_id}`,\n    notificationType: \"Error\",\n    duration: 5,\n  });\n}\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

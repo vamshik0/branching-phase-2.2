@@ -1,0 +1,95 @@
+{
+  "id": "0c5269a0-d55d-4457-8ac2-a3ca1a8c39df",
+  "name": "button13",
+  "type": "Button",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "55d404d9-890c-484f-90c9-bb7f956cc130",
+  "properties": {
+    "text": {
+      "value": "create Reward"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#FFFFFF"
+    },
+    "borderColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "icon": {
+      "value": "IconAlignBoxBottomLeft"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "type": {
+      "value": "primary"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "9eb44100-e2b4-4399-a9e5-b3a1f479c39e",
+      "type": "desktop",
+      "top": 890,
+      "left": 16,
+      "width": 6,
+      "height": 40,
+      "componentId": "0c5269a0-d55d-4457-8ac2-a3ca1a8c39df",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "7b5fd684-004b-47d4-b474-c03d28c531a1",
+      "type": "mobile",
+      "top": 950,
+      "left": 19,
+      "width": 4,
+      "height": 40,
+      "componentId": "0c5269a0-d55d-4457-8ac2-a3ca1a8c39df",
+      "dimensionUnit": "count"
+    }
+  ]
+}

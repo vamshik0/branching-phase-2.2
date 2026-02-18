@@ -1,0 +1,17 @@
+{
+  "id": "b8e7d69f-61d3-41f7-a276-18b95a4c72fa",
+  "name": "im-milestone-campaign-export-1767876165988",
+  "type": "front-end",
+  "slug": "b8e7d69f-61d3-41f7-a276-18b95a4c72fa",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-18T11:30:04.559Z",
+  "organizationId": "cb7d184e-9c62-4202-868e-59ef0703e740",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "share",
+  "tooljetVersion": "3.20.93-ee-lts"
+}

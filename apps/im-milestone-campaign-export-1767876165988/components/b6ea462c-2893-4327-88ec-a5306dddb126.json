@@ -1,0 +1,96 @@
+{
+  "id": "b6ea462c-2893-4327-88ec-a5306dddb126",
+  "name": "button10",
+  "type": "Button",
+  "pageId": "8dd244fa-4665-431a-ab6b-7e49536a47ea",
+  "parent": "07419f4e-fd6f-4c90-932d-9a447bea61f0",
+  "properties": {
+    "text": {
+      "value": "Next"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#FFFFFF"
+    },
+    "borderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "{{components.bf960b45-dc6b-411e-ad56-2d1c7426cdb6.currentStepId === components.bf960b45-dc6b-411e-ad56-2d1c7426cdb6.steps.length ? '#9CBBFD':'#4368E3'}}",
+      "fxActive": true
+    },
+    "iconColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "direction": {
+      "value": "right"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "icon": {
+      "value": "IconArrowNarrowRight"
+    },
+    "iconVisibility": {
+      "value": "{{true}}"
+    },
+    "type": {
+      "value": "primary"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "22233d78-730f-4002-a42d-66979190ea5c",
+      "type": "desktop",
+      "top": 1240,
+      "left": 32,
+      "width": 10,
+      "height": 40,
+      "componentId": "b6ea462c-2893-4327-88ec-a5306dddb126",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "bc340332-1b12-4dc8-8947-9ca6c896ef57",
+      "type": "mobile",
+      "top": 810,
+      "left": 38,
+      "width": 4,
+      "height": 40,
+      "componentId": "b6ea462c-2893-4327-88ec-a5306dddb126",
+      "dimensionUnit": "count"
+    }
+  ]
+}

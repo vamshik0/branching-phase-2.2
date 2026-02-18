@@ -1,0 +1,132 @@
+{
+  "id": "b9dac681-33b8-41e2-8082-f6578ff6c828",
+  "name": "textinput145",
+  "type": "TextInput",
+  "pageId": "8dd244fa-4665-431a-ab6b-7e49536a47ea",
+  "parent": "7ceccff1-f5e2-41b7-929d-f58a0b8a46b8",
+  "properties": {
+    "value": {
+      "value": ""
+    },
+    "label": {
+      "value": "Reward Description(for internal purpose)"
+    },
+    "placeholder": {
+      "value": "Enter Value"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "errTextColor": {
+      "value": "var(--cc-error-systemStatus)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "width": {
+      "value": "{{33}}"
+    },
+    "alignment": {
+      "value": "top"
+    },
+    "color": {
+      "value": "var(--cc-primary-text)"
+    },
+    "auto": {
+      "value": "{{true}}"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "icon": {
+      "value": "IconHome2"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "widthType": {
+      "value": "ofComponent"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": "{{false}}"
+    },
+    "regex": {
+      "value": ""
+    },
+    "minLength": {
+      "value": ""
+    },
+    "maxLength": {
+      "value": ""
+    },
+    "customRule": {
+      "value": ""
+    }
+  },
+  "layouts": [
+    {
+      "id": "4e7ad4b1-11d8-4723-a6fe-6aea2511c2c7",
+      "type": "desktop",
+      "top": 100,
+      "left": 23,
+      "width": 11,
+      "height": 40,
+      "componentId": "b9dac681-33b8-41e2-8082-f6578ff6c828",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "95dff658-dcbf-4232-b7a9-1b8c29bd270b",
+      "type": "mobile",
+      "top": 160,
+      "left": 13,
+      "width": 11,
+      "height": 40,
+      "componentId": "b9dac681-33b8-41e2-8082-f6578ff6c828",
+      "dimensionUnit": "count"
+    }
+  ]
+}

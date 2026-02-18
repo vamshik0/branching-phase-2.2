@@ -1,0 +1,25 @@
+{
+  "id": "15f3d6fb-b614-4458-9ef2-1b93ec339f37",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "actionId": "control-component",
+    "alertType": "info",
+    "component": "button9",
+    "runOnlyIf": "{{Number(components.a69e22db-8b5b-4dc0-bdde-9b375d3e202c.currentTab) > 0}}",
+    "componentId": "a69e22db-8b5b-4dc0-bdde-9b375d3e202c",
+    "componentSpecificActionHandle": "setTab",
+    "componentSpecificActionParams": [
+      {
+        "value": "{{String(Number(components.a69e22db-8b5b-4dc0-bdde-9b375d3e202c.currentTab)-1)}}",
+        "handle": "id",
+        "displayName": "Id"
+      }
+    ]
+  },
+  "sourceId": "8d0323ef-835e-450c-9489-3449cd20405d",
+  "target": "component",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

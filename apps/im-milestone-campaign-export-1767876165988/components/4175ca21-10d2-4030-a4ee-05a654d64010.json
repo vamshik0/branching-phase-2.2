@@ -1,0 +1,62 @@
+{
+  "id": "4175ca21-10d2-4030-a4ee-05a654d64010",
+  "name": "updateButton",
+  "type": "Button",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "5f2e388e-475b-43ca-9ac2-92af02bb17b1",
+  "properties": {
+    "text": {
+      "value": "Update Campaign"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "3c70813c-30ff-41b7-81dc-d1036be1c845",
+      "type": "desktop",
+      "top": 1060,
+      "left": 17,
+      "width": 10,
+      "height": 40,
+      "componentId": "4175ca21-10d2-4030-a4ee-05a654d64010",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "088caac4-7aa7-4c6d-89b9-40500ace9768",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "4175ca21-10d2-4030-a4ee-05a654d64010",
+      "dimensionUnit": "count"
+    }
+  ]
+}

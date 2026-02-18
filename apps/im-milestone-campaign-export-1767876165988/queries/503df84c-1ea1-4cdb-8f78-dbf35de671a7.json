@@ -1,0 +1,11 @@
+{
+  "id": "503df84c-1ea1-4cdb-8f78-dbf35de671a7",
+  "name": "updateCampaignResponseHandler",
+  "options": {
+    "code": "const milestoneCampaignObj = updateMilestoneCampaign.data.milestone_campaign;\n\nif (milestoneCampaignObj && milestoneCampaignObj.campaign_id) {\n utils.showNotification({\n    title: \"SUCCESS\",\n    description: `Campaign updated successfully. Campaign ID: ${milestoneCampaignObj.campaign_id}`,\n    notificationType: \"success\",\n    duration: 5,\n  });\n} else {\n  utils.showNotification({\n    title: \"ERROR\",\n    description: \"Something went wrong while creating the campaign\",\n    notificationType: \"Error\",\n    duration: 5,\n  });\n}\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

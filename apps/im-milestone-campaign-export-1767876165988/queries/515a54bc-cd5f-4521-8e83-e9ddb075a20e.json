@@ -1,0 +1,11 @@
+{
+  "id": "515a54bc-cd5f-4521-8e83-e9ddb075a20e",
+  "name": "editFlowCampaignInitialiser",
+  "options": {
+    "code": "const campaignDetails = getMilestoneCampaign.data?.milestone_campaign\n\nfunction googleTimeToDate(seconds, nanos) {\n    // Convert seconds to milliseconds and add nanoseconds converted to milliseconds\n    const milliseconds = (seconds * 1000) + (nanos / 1000000);\n    return new Date(milliseconds);\n}\n\nfunction convertDurationToDays(duration) {\n    const seconds = parseInt(duration.seconds, 10);\n    const nanos = duration.nanos;\n\n    const totalSeconds = seconds + nanos / 1000000000;\n    const days = totalSeconds / (24 * 3600);\n\n    return days;\n}\n\ncampaignStatus.setValue(campaignDetails?.is_active)\ncampaignStartDateEdit.setValue(googleTimeToDate(campaignDetails?.campaign_start_time?.seconds,campaignDetails?.campaign_start_time?.nanos))\ncampaignEndDateEdit.setValue(googleTimeToDate(campaignDetails?.campaign_end_time?.seconds,campaignDetails?.campaign_end_time?.nanos))\nuserJourneyDurationEdit.setValue(convertDurationToDays(campaignDetails?.user_journey_duration))\nuserSegmentDataEdit.setValue(campaignDetails?.user_segment_data?.eligible_user_segment_info?.segments?.join(','))\nineligibleUserSegmentDataEdit.setValue(campaignDetails?.user_segment_data?.ineligible_user_segment_info?.segments?.join(','))\neligibleXpVariantsEdit.setValue(campaignDetails?.experiment_data?.eligible_xp_variants?.join(','))\nineligibleXpVariantsEdit.setValue(campaignDetails?.experiment_data?.ineligible_xp_variants?.join(','))\ncreatedBy.setValue(campaignDetails?.created_by)\nupdatedBy.setValue(campaignDetails?.updated_by)\ncreatedAt.setValue(googleTimeToDate(campaignDetails?.created_at?.seconds,campaignDetails?.created_at?.nanos))\nupdatedAt.setValue(googleTimeToDate(campaignDetails?.updated_at?.seconds,campaignDetails?.updated_at?.nanos))\neditFlowRewards.setValue(campaignDetails?.campaign_milestone_data)",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "882f6864-d72f-49b2-9b8c-05a53f7178ff",
+  "name": "userJourneyDurationEdit",
+  "type": "NumberInput",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "5f2e388e-475b-43ca-9ac2-92af02bb17b1",
+  "properties": {
+    "value": {
+      "value": ""
+    },
+    "label": {
+      "value": "Duration \n(Widget live)\n"
+    },
+    "placeholder": {
+      "value": "Enter value"
+    },
+    "decimalPlaces": {
+      "value": null
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "widthType": {
+      "value": "ofField"
+    }
+  },
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "minValue": {
+      "value": null
+    },
+    "maxValue": {
+      "value": null
+    }
+  },
+  "layouts": [
+    {
+      "id": "bf66a9bf-6938-4ca2-ba32-a4fcc0b052b8",
+      "type": "desktop",
+      "top": 300,
+      "left": 3,
+      "width": 35,
+      "height": 40,
+      "componentId": "882f6864-d72f-49b2-9b8c-05a53f7178ff",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "8713097d-3c10-44d9-b431-13387356bc1c",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "882f6864-d72f-49b2-9b8c-05a53f7178ff",
+      "dimensionUnit": "count"
+    }
+  ]
+}

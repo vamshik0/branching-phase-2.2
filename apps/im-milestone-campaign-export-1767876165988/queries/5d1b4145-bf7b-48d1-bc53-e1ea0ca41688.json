@@ -1,0 +1,11 @@
+{
+  "id": "5d1b4145-bf7b-48d1-bc53-e1ea0ca41688",
+  "name": "createCampaignResponseHandler",
+  "options": {
+    "code": "const milestoneCampaignObj = createMilestoneCampaign.data.milestone_campaign;\nconst rewardRedeemOrderCountMap = {\n  \"Reward 1\": rewardRedeemOrderCount1.value,\n  \"Reward 2\": rewardRedeemOrderCount2.value,\n  \"Reward 3\": rewardRedeemOrderCount3.value,\n  \"Reward 4\": rewardRedeemOrderCount4.value,\n  \"Reward 5\": rewardRedeemOrderCount5.value,\n};\n\nif (milestoneCampaignObj && milestoneCampaignObj.campaign_id) {\n utils.showNotification({\n    title: \"SUCCESS\",\n    description: `Campaign created successfully. Campaign ID: ${milestoneCampaignObj.campaign_id}`,\n    notificationType: \"success\",\n    duration: 5,\n  });\n  campaignStatusBar.setValue(`Campaign created successfully. Campaign ID: ${milestoneCampaignObj.campaign_id}`)\n} else {\n  utils.showNotification({\n    title: \"ERROR\",\n    description: \"Something went wrong while creating the campaign\",\n    notificationType: \"Error\",\n    duration: 5,\n  });\n}\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}
