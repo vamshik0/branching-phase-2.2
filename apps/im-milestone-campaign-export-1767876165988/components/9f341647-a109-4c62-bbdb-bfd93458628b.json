@@ -1,0 +1,100 @@
+{
+  "id": "9f341647-a109-4c62-bbdb-bfd93458628b",
+  "name": "updatedAt",
+  "type": "DatetimePickerV2",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "5f2e388e-475b-43ca-9ac2-92af02bb17b1",
+  "properties": {
+    "label": {
+      "value": "Updated At"
+    },
+    "defaultValue": {
+      "value": [
+        "01/01/2022"
+      ]
+    },
+    "dateFormat": {
+      "value": "MMM d, yyyy"
+    },
+    "timeFormat": {
+      "value": [
+        "HH:mm"
+      ]
+    },
+    "isTimezoneEnabled": {
+      "value": [
+        "{{false}}"
+      ]
+    },
+    "displayTimezone": {
+      "value": [
+        "UTC"
+      ]
+    },
+    "storeTimezone": {
+      "value": [
+        "UTC"
+      ]
+    },
+    "loadingState": {
+      "value": [
+        "{{false}}"
+      ]
+    },
+    "visibility": {
+      "value": [
+        "{{true}}"
+      ]
+    },
+    "disabledState": {
+      "value": [
+        "{{false}}"
+      ]
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "widthType": {
+      "value": "ofField"
+    }
+  },
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "c23b5557-3ebc-4f3f-b84f-2806e9b2d595",
+      "type": "desktop",
+      "top": 750,
+      "left": 3,
+      "width": 35,
+      "height": 40,
+      "componentId": "9f341647-a109-4c62-bbdb-bfd93458628b",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "1b532b58-01b8-4193-9a74-8ad4c440fb81",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "9f341647-a109-4c62-bbdb-bfd93458628b",
+      "dimensionUnit": "count"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "aca66eb8-7c26-439d-9170-23e748c0bc81",
+  "name": "userJourneyDuration",
+  "type": "NumberInput",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "3446b1cb-5eb8-4ba2-89a5-8c022c5bf6aa-t1",
+  "properties": {
+    "value": {
+      "value": 0
+    },
+    "label": {
+      "value": "Journey Duration (Widget live in days)"
+    },
+    "placeholder": {
+      "value": "Enter value"
+    },
+    "decimalPlaces": {
+      "value": null
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": "Duration for which the milestone journey will be live and visible to a particular user.\n\n"
+    }
+  },
+  "general": {},
+  "styles": {
+    "widthType": {
+      "value": "ofField"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "errTextColor": {
+      "value": "var(--cc-error-systemStatus)"
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "color": {
+      "value": "var(--cc-primary-text)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "width": {
+      "value": 80
+    },
+    "alignment": {
+      "value": "side"
+    },
+    "auto": {
+      "value": "{{false}}"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "icon": {
+      "value": "IconHome2"
+    },
+    "iconVisibility": {
+      "value": false
+    }
+  },
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    },
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "minValue": {
+      "value": null
+    },
+    "maxValue": {
+      "value": null
+    },
+    "mandatory": {
+      "value": "{{false}}"
+    },
+    "regex": {
+      "value": ""
+    },
+    "customRule": {
+      "value": ""
+    }
+  },
+  "layouts": [
+    {
+      "id": "3386f71b-9b24-4b18-bc5c-3809806c3729",
+      "type": "desktop",
+      "top": 180,
+      "left": 1,
+      "width": 16,
+      "height": 40,
+      "componentId": "aca66eb8-7c26-439d-9170-23e748c0bc81",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "4a63f5a8-c3c8-4b35-8e20-118517c11799",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "aca66eb8-7c26-439d-9170-23e748c0bc81",
+      "dimensionUnit": "count"
+    }
+  ]
+}

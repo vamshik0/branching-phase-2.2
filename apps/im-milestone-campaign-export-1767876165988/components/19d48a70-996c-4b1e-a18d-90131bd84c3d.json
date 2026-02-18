@@ -1,0 +1,148 @@
+{
+  "id": "19d48a70-996c-4b1e-a18d-90131bd84c3d",
+  "name": "campaignStartDate",
+  "type": "DatePickerV2",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "3446b1cb-5eb8-4ba2-89a5-8c022c5bf6aa-t1",
+  "properties": {
+    "label": {
+      "value": "Campaign Start Date\n"
+    },
+    "defaultValue": {
+      "value": "01/01/2022"
+    },
+    "dateFormat": {
+      "value": "DD/MM/YYYY"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "widthType": {
+      "value": "ofField"
+    },
+    "labelColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "alignment": {
+      "value": "side"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "labelWidth": {
+      "value": 80
+    },
+    "auto": {
+      "value": "{{false}}"
+    },
+    "fieldBackgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "fieldBorderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "selectedTextColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "errTextColor": {
+      "value": "var(--cc-error-systemStatus)"
+    },
+    "icon": {
+      "value": "IconCalendarEvent"
+    },
+    "iconVisibility": {
+      "value": true
+    },
+    "iconDirection": {
+      "value": "left"
+    },
+    "fieldBorderRadius": {
+      "value": "{{6}}"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    }
+  },
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    },
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "minDate": {
+      "value": ""
+    },
+    "maxDate": {
+      "value": ""
+    },
+    "disabledDates": {
+      "value": "{{[]}}"
+    },
+    "customRule": {
+      "value": ""
+    },
+    "mandatory": {
+      "value": "{{false}}"
+    }
+  },
+  "layouts": [
+    {
+      "id": "e26c65fd-0634-4319-8b1c-fcd903521cb4",
+      "type": "desktop",
+      "top": 60,
+      "left": 1,
+      "width": 16,
+      "height": 40,
+      "componentId": "19d48a70-996c-4b1e-a18d-90131bd84c3d",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "b9470c6b-40b3-406e-8593-4f166bf93624",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "19d48a70-996c-4b1e-a18d-90131bd84c3d",
+      "dimensionUnit": "count"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "8dd244fa-4665-431a-ab6b-7e49536a47ea",
+  "name": "Home (copy)",
+  "handle": "home-copy",
+  "index": 2,
+  "disabled": false,
+  "hidden": false,
+  "icon": "IconFile",
+  "autoComputeLayout": true,
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56",
+  "pageGroupIndex": null,
+  "pageGroupId": null,
+  "isPageGroup": false,
+  "url": null,
+  "openIn": "new_tab",
+  "type": "default",
+  "appId": "b8e7d69f-61d3-41f7-a276-18b95a4c72fa"
+}

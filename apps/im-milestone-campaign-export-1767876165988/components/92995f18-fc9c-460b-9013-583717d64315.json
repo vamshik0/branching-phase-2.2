@@ -1,0 +1,65 @@
+{
+  "id": "92995f18-fc9c-460b-9013-583717d64315",
+  "name": "rewardDetailsHeader",
+  "type": "Text",
+  "pageId": "8dd244fa-4665-431a-ab6b-7e49536a47ea",
+  "parent": "4f7f565a-94b4-4a6b-ad9a-8ee49e0b44bf-header",
+  "properties": {
+    "textFormat": {
+      "value": "markdown"
+    },
+    "dynamicHeight": {
+      "value": "{{false}}"
+    },
+    "text": {
+      "value": "#### Reward Details"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "2fc329d0-f500-4100-abcf-d44194fb7ede",
+      "type": "desktop",
+      "top": 0,
+      "left": 0,
+      "width": 42,
+      "height": 24,
+      "componentId": "92995f18-fc9c-460b-9013-583717d64315",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "58150330-1c97-4ed0-9587-9fa7ddbc7204",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "92995f18-fc9c-460b-9013-583717d64315",
+      "dimensionUnit": "count"
+    }
+  ]
+}

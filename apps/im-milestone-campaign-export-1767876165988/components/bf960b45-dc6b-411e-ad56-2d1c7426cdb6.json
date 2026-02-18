@@ -1,0 +1,145 @@
+{
+  "id": "bf960b45-dc6b-411e-ad56-2d1c7426cdb6",
+  "name": "steps1",
+  "type": "Steps",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "02d44888-cebe-4289-a83f-88ee2cfc607a-header",
+  "properties": {
+    "steps": {
+      "value": [
+        {
+          "name": "Reward 1",
+          "tooltip": "",
+          "id": 1,
+          "visible": {
+            "value": "{{true}}"
+          },
+          "disabled": {
+            "value": "{{false}}"
+          }
+        },
+        {
+          "name": "Reward 2",
+          "tooltip": "",
+          "id": 2,
+          "visible": {
+            "value": "{{true}}"
+          },
+          "disabled": {
+            "value": "{{false}}"
+          }
+        },
+        {
+          "name": "Reward 3",
+          "tooltip": "",
+          "id": 3,
+          "visible": {
+            "value": "{{true}}"
+          },
+          "disabled": {
+            "value": "{{false}}"
+          }
+        },
+        {
+          "name": "Reward 4",
+          "tooltip": "",
+          "id": 4,
+          "visible": {
+            "value": "{{true}}"
+          },
+          "disabled": {
+            "value": "{{false}}"
+          }
+        },
+        {
+          "name": "Reward 5",
+          "tooltip": "",
+          "id": 5,
+          "visible": {
+            "value": "{{true}}"
+          },
+          "disabled": {
+            "value": "{{false}}"
+          }
+        }
+      ]
+    },
+    "schema": {
+      "value": "{{ [{ name: 'step 1', tooltip: '', id: 1,visible: true, disabled: false},{ name: 'step 2', tooltip: '', id: 2,visible: true, disabled: false},{ name: 'step 3', tooltip: '', id: 3,visible: true, disabled: false},{ name: 'step 4', tooltip: '', id: 4,visible: true, disabled: false},{ name: 'step 5', tooltip: '', id: 5,visible: true, disabled: false}]}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "variant": {
+      "value": "numbers"
+    },
+    "currentStep": {
+      "value": "{{Number(components.4580be1d-39d1-4302-9ada-2cc20ceb3d0e.currentTab)+1}}"
+    },
+    "stepsSelectable": {
+      "value": "{{false}}"
+    },
+    "advanced": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "padding": {
+      "value": "default"
+    },
+    "incompletedAccent": {
+      "value": "var(--cc-surface3-surface)"
+    },
+    "incompletedLabel": {
+      "value": "var(--cc-primary-text)"
+    },
+    "completedAccent": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "completedLabel": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "currentStepLabel": {
+      "value": "var(--cc-primary-text)"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "80ee40c5-e5e6-417c-91d3-de27cb1a4b09",
+      "type": "desktop",
+      "top": 20,
+      "left": 15,
+      "width": 16,
+      "height": 38,
+      "componentId": "bf960b45-dc6b-411e-ad56-2d1c7426cdb6",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "83cd9b47-962d-48c5-8137-251d9a41878e",
+      "type": "mobile",
+      "top": 30,
+      "left": 10,
+      "width": 24,
+      "height": 38,
+      "componentId": "bf960b45-dc6b-411e-ad56-2d1c7426cdb6",
+      "dimensionUnit": "count"
+    }
+  ]
+}

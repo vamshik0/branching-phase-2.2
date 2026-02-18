@@ -1,0 +1,11 @@
+{
+  "id": "0f156408-cc40-41ea-a676-01a7c1c88dd9",
+  "name": "GetIMRegisteredSegments",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "raw_message": "{\n  \"request_ctx\": {\n    \"request_id\": \"{{uuid.v4()}}\",\n    \"market_place\": {\n      \"id\": 0,\n      \"categories\": [\n        0\n      ],\n      \"business_lines\": [\n        0\n      ]\n    },\n    \"client_id\": \"super-dash\",\n    \"token_id\": \"71397382164c269e0ce51e2edd63319e\"\n  },\n  \"domain_names\": [\n    \"meat\",\n    \"alcohol\",\n    \"NI_Non_Rest_Orders\",\n    \"maxx\",\n    \"InsanelyGood\",\n    \"payment_alliance_offers\",\n    \"genie\",\n    \"instamart\",\n    \"instamart_v2\",\n    \"instamart_v3\",\n    \"instamart_v4\",\n    \"instamart_v5\",\n    \"discounting_v3\",\n    \"cbcc_new\",\n    \"instamart_hltv\",\n    \"instamart_du1\",\n    \"instamart_ru1\",\n    \"instamart_biz_cat\",\n    \"Ringfencing_TG\",\n    \"cbcc\",\n    \"cbcc_new\",\n    \"swiggy_super\",\n    \"swiggy_one_acq\",\n    \"segmentation\",\n    \"Swiggy_Lifecycle\",\n    \"food_preferences\",\n    \"nso_ads_offers\",\n    \"instamart_maxxsaver\",\n    \"instamart_nu_p_1\"\n  ]\n}"
+  },
+  "dataSourceId": "b8976a57-f257-4aad-8c9d-a20291a6c305",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

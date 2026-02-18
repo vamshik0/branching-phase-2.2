@@ -1,0 +1,11 @@
+{
+  "id": "c4716ea7-bda4-41c9-a2d3-afba0816f3c8",
+  "name": "getRewardResponseHandler",
+  "options": {
+    "code": "const milestoneRewardObj = getMilestoneReward.data.milestone_reward;\n\nif (milestoneRewardObj && milestoneRewardObj.reward_id) {\n utils.showNotification({\n    title: \"SUCCESS\",\n    description: `Reward fetched successfully. Reward ID: ${milestoneRewardObj.reward_id}`,\n    notificationType: \"success\",\n    duration: 5,\n  });\n  editFlowRewardInitialiser.trigger()\n} else {\n  utils.showNotification({\n    title: \"ERROR\",\n    description: `No reward found with the given reward id: ${milestoneRewardObj.reward_id}`,\n    notificationType: \"Error\",\n    duration: 5,\n  });\n}\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

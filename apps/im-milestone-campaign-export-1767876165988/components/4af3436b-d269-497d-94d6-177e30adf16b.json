@@ -1,0 +1,65 @@
+{
+  "id": "4af3436b-d269-497d-94d6-177e30adf16b",
+  "name": "citiesBulkUploadCheckbox",
+  "type": "Checkbox",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "3446b1cb-5eb8-4ba2-89a5-8c022c5bf6aa-t1",
+  "properties": {
+    "label": {
+      "value": "Cities Bulk Upload (.csv)"
+    },
+    "defaultValue": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "69702b40-aa23-42a9-9a6a-760ba34e1996",
+      "type": "desktop",
+      "top": 370,
+      "left": 1,
+      "width": 4,
+      "height": 40,
+      "componentId": "4af3436b-d269-497d-94d6-177e30adf16b",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "746c0af1-1ca2-4105-aba8-04c4a75c8412",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "4af3436b-d269-497d-94d6-177e30adf16b",
+      "dimensionUnit": "count"
+    }
+  ]
+}

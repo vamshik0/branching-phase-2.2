@@ -1,0 +1,11 @@
+{
+  "id": "bd5907f5-1483-4915-bf77-dc57dd1a36e6",
+  "name": "disableRewardResponseHandler",
+  "options": {
+    "code": "const milestoneRewardObj = disableMilestoneReward.data.milestone_reward;\n\nif (milestoneRewardObj && milestoneRewardObj.reward_id) {\n utils.showNotification({\n    title: \"SUCCESS\",\n    description: `Reward disabled successfully. Reward ID: ${milestoneRewardObj.reward_id}`,\n    notificationType: \"success\",\n    duration: 5,\n  });\n} else {\n  utils.showNotification({\n    title: \"ERROR\",\n    description: \"Something went wrong while disbaling the reward\",\n    notificationType: \"Error\",\n    duration: 5,\n  });\n}\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "022a049e-fabe-4b42-8ecc-3a0cc48867db",
+  "name": "filepicker3",
+  "type": "FilePicker",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "9ec37694-d4d5-4b19-9813-746fc3334a21-t3",
+  "properties": {
+    "label": {
+      "value": "Choose file ( max user ids allowed 10000 per file )"
+    },
+    "instructionText": {
+      "value": "Drag and drop files here or click to select files"
+    },
+    "enableDropzone": {
+      "value": "{{false}}",
+      "fxActive": false
+    },
+    "enablePicker": {
+      "value": "{{true}}",
+      "fxActive": false
+    },
+    "enableMultiple": {
+      "value": "{{false}}",
+      "fxActive": false
+    },
+    "parseContent": {
+      "value": "{{false}}"
+    },
+    "parseFileType": {
+      "value": "auto-detect"
+    },
+    "delimiter": {
+      "value": ","
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "dropzoneTitleColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 1px 3px #0000001A"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "enableValidation": {
+      "value": "{{false}}"
+    },
+    "fileType": {
+      "value": "image/*"
+    },
+    "minSize": {
+      "value": "{{50}}"
+    },
+    "maxSize": {
+      "value": "{{51200000}}"
+    },
+    "minFileCount": {
+      "value": "{{0}}"
+    },
+    "maxFileCount": {
+      "value": "{{2}}"
+    }
+  },
+  "layouts": [
+    {
+      "id": "403dfb9f-d23e-42aa-81b2-f45270598b10",
+      "type": "desktop",
+      "top": 50,
+      "left": 1,
+      "width": 15,
+      "height": 140,
+      "componentId": "022a049e-fabe-4b42-8ecc-3a0cc48867db",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "fca31eb9-2f4f-42b3-87c5-7a9905e8d280",
+      "type": "mobile",
+      "top": 130,
+      "left": 6,
+      "width": 15,
+      "height": 140,
+      "componentId": "022a049e-fabe-4b42-8ecc-3a0cc48867db",
+      "dimensionUnit": "count"
+    }
+  ]
+}

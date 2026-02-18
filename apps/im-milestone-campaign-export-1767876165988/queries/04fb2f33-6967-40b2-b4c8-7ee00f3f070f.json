@@ -1,0 +1,11 @@
+{
+  "id": "04fb2f33-6967-40b2-b4c8-7ee00f3f070f",
+  "name": "getCustomerSegmentsArray",
+  "options": {
+    "code": "await getSegmentsDataFromMarketingDB.trigger()\nreturn getSegmentsDataFromMarketingDB.data.option_value[0].split(\",\") || [];\n\n",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "424c9bde-1c88-4787-af40-e905d3ecfd6c",
+  "appVersionId": "d74f28e3-ec1b-4ff9-b6e6-b777a4e48b56"
+}

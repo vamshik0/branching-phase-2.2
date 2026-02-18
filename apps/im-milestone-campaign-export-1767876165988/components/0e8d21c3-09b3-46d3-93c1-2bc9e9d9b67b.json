@@ -1,0 +1,68 @@
+{
+  "id": "0e8d21c3-09b3-46d3-93c1-2bc9e9d9b67b",
+  "name": "disableUserJourneySampleCsv",
+  "type": "Link",
+  "pageId": "fc607843-7e10-4df7-9207-f0b12b9e8edd",
+  "parent": "9ec37694-d4d5-4b19-9813-746fc3334a21-t3",
+  "properties": {
+    "linkTarget": {
+      "value": "https://dev.to/"
+    },
+    "linkText": {
+      "value": "Download sample CSV"
+    },
+    "targetType": {
+      "value": "new"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {
+    "box_shadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "show_on_desktop": {
+      "value": "{{true}}"
+    },
+    "show_on_mobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "5c38b9d3-fe02-4ac6-bdcd-cafa06257021",
+      "type": "desktop",
+      "top": 250,
+      "left": 19,
+      "width": 5,
+      "height": 70,
+      "componentId": "0e8d21c3-09b3-46d3-93c1-2bc9e9d9b67b",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "e3eff0c2-2981-40ef-9eed-9f775680f621",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 0,
+      "height": 0,
+      "componentId": "0e8d21c3-09b3-46d3-93c1-2bc9e9d9b67b",
+      "dimensionUnit": "count"
+    }
+  ]
+}
