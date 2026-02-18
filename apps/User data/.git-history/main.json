@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0.0",
-  "gitAppName": "Mission Impossible",
+  "gitAppName": "User data",
   "appCoRelationId": "cba1ecaa-705d-4c53-9cb6-50d41e9190b6",
   "gitAppId": "f8abbad7-d306-4902-9afd-be3520f42594",
   "branchName": "main",
-  "gitVersionName": "v1",
-  "gitVersionId": "bd9c05e0-487f-4982-98eb-a9642ea5c12e",
+  "gitVersionName": "draft-version-1771403632205",
+  "gitVersionId": "0d526146-bf1b-4e62-a03a-94a928fb8042",
   "tooljetVersion": "3.20.93-ee-lts",
   "createdAt": "2026-02-18T08:29:11.331Z",
-  "updatedAt": "2026-02-18T08:29:11.331Z"
+  "updatedAt": "2026-02-18T08:34:44.917Z"
 }
