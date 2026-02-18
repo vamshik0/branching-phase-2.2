@@ -12,9 +12,39 @@
   },
   "pageSettings": {
     "properties": {
-      "position": "top",
-      "hideLogo": true,
-      "hideHeader": true
+      "position": "side",
+      "hideLogo": false,
+      "hideHeader": false,
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      },
+      "style": "icon"
+    },
+    "styles": {
+      "iconColor": {
+        "value": "var(--cc-tertiary-brand)",
+        "isDefault": false
+      },
+      "textColor": {
+        "value": "var(--cc-primary-brand)",
+        "isDefault": false
+      },
+      "selectedIconColor": {
+        "value": "var(--cc-warning-systemStatus)",
+        "isDefault": false
+      },
+      "pillRadius": {
+        "value": "20"
+      },
+      "backgroundColor": {
+        "value": "var(--cc-tertiary-brand)",
+        "isDefault": false
+      },
+      "borderColor": {
+        "value": "var(--cc-error-systemStatus)",
+        "isDefault": false
+      }
     }
   },
   "showViewerNavigation": true,
