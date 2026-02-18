@@ -1,0 +1,19 @@
+{
+  "id": "b9d77a31-e519-4fe9-bfcd-733fc77831c5",
+  "name": "restapi1",
+  "options": {
+    "method": "get",
+    "url": "https://jsonplaceholder.typicode.com/todos/1",
+    "url_params": [],
+    "headers": [],
+    "cookies": [],
+    "body": [],
+    "json_body": null,
+    "body_toggle": false,
+    "retry_network_errors": null,
+    "transformationLanguage": "javascript",
+    "enableTransformation": false
+  },
+  "dataSourceId": "84d54d1d-9ff9-4479-ad61-640bda18b42f",
+  "appVersionId": "4a98df0e-51d9-4742-978c-59a461660bb0"
+}
