@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "elio",
+  "appCoRelationId": "c7c6303a-a112-4a83-bc32-bbc15fe6c18d",
+  "gitAppId": "6d1915c4-c65e-4c12-ae73-0159d0d3aeba",
+  "branchName": "elio-2",
+  "gitVersionName": "elio-2",
+  "gitVersionId": "edfaed3c-5045-45d1-aa68-d6e59c014785",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T13:36:36.487Z",
+  "updatedAt": "2026-02-18T13:36:36.487Z"
+}
