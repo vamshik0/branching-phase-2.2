@@ -1,0 +1,17 @@
+{
+  "id": "cba1ecaa-705d-4c53-9cb6-50d41e9190b6",
+  "name": "Mission Impossible",
+  "type": "front-end",
+  "slug": "cba1ecaa-705d-4c53-9cb6-50d41e9190b6",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-18T08:01:28.063Z",
+  "organizationId": "cb7d184e-9c62-4202-868e-59ef0703e740",
+  "userId": "458bf1ed-aeb9-4208-b882-774fbd484f9b",
+  "icon": "share",
+  "tooljetVersion": "3.20.93-ee-lts"
+}

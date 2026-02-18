@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Mission Impossible",
+  "appCoRelationId": "cba1ecaa-705d-4c53-9cb6-50d41e9190b6",
+  "gitAppId": "f8abbad7-d306-4902-9afd-be3520f42594",
+  "branchName": "tomCruise",
+  "gitVersionName": "tomCruise",
+  "gitVersionId": "92a037cc-111b-4794-8d3c-f08ada582967",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T08:27:55.764Z",
+  "updatedAt": "2026-02-18T08:27:55.764Z"
+}
