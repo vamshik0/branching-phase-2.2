@@ -12,39 +12,9 @@
   },
   "pageSettings": {
     "properties": {
-      "position": "side",
-      "hideLogo": false,
-      "hideHeader": false,
-      "disableMenu": {
-        "value": "{{false}}",
-        "fxActive": false
-      },
-      "style": "icon"
-    },
-    "styles": {
-      "iconColor": {
-        "value": "var(--cc-tertiary-brand)",
-        "isDefault": false
-      },
-      "textColor": {
-        "value": "var(--cc-primary-brand)",
-        "isDefault": false
-      },
-      "selectedIconColor": {
-        "value": "var(--cc-warning-systemStatus)",
-        "isDefault": false
-      },
-      "pillRadius": {
-        "value": "20"
-      },
-      "backgroundColor": {
-        "value": "var(--cc-tertiary-brand)",
-        "isDefault": false
-      },
-      "borderColor": {
-        "value": "var(--cc-error-systemStatus)",
-        "isDefault": false
-      }
+      "position": "top",
+      "hideLogo": true,
+      "hideHeader": true
     }
   },
   "showViewerNavigation": true,
@@ -54,7 +24,7 @@
   "currentEnvironmentId": "25d8271a-24f5-4bab-8f8a-c5bd12d7bb5e",
   "promotedFrom": null,
   "status": "PUBLISHED",
-  "description": "first",
+  "description": null,
   "publishedAt": null,
   "releasedAt": null
 }
