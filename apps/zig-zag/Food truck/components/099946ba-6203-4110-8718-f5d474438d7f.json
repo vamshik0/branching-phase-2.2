@@ -6,7 +6,7 @@
   "parent": null,
   "properties": {
     "text": {
-      "value": "Display title"
+      "value": "Display title and table data"
     },
     "visibility": {
       "value": "{{true}}"
