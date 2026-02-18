@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Food truck",
+  "appCoRelationId": "727c7754-eed4-4172-9a9a-74eda9d08d3d",
+  "gitAppId": "7b58a0db-09e9-4e7b-b30e-cd8305cbd292",
+  "branchName": "joint-2",
+  "gitVersionName": "joint-2",
+  "gitVersionId": "2014ca92-a60a-4d84-9ae8-10342e315c05",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T08:09:42.490Z",
+  "updatedAt": "2026-02-18T08:09:42.490Z"
+}
