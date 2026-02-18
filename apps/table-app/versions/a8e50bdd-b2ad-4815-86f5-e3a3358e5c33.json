@@ -51,12 +51,12 @@
   },
   "showViewerNavigation": true,
   "homePageId": "a6d541ff-8b06-4cec-8fef-a158a7dd74cf",
-  "versionType": "branch",
+  "versionType": "version",
   "appId": "50c1b2ef-6fcb-4191-ae21-d65904a416b0",
   "currentEnvironmentId": "25d8271a-24f5-4bab-8f8a-c5bd12d7bb5e",
   "promotedFrom": null,
-  "status": "DRAFT",
-  "description": null,
+  "status": "PUBLISHED",
+  "description": "third-version",
   "publishedAt": null,
   "releasedAt": null
 }
