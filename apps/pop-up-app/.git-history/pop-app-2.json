@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "pop-up-app",
+  "appCoRelationId": "60194455-cf8b-4c65-a246-70230b2e7fbe",
+  "gitAppId": "c52dfe4e-d1d2-48d9-b814-157a836fa04a",
+  "branchName": "pop-app-2",
+  "gitVersionName": "pop-app-2",
+  "gitVersionId": "3b325632-26a1-4046-add7-c0546380b31f",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-18T13:03:34.702Z",
+  "updatedAt": "2026-02-18T13:03:34.702Z"
+}
