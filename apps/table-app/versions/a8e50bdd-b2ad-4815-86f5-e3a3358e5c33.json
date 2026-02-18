@@ -12,18 +12,50 @@
   },
   "pageSettings": {
     "properties": {
-      "position": "top",
-      "hideLogo": true,
-      "hideHeader": true
+      "position": "side",
+      "hideLogo": false,
+      "hideHeader": false,
+      "style": "icon",
+      "disableMenu": {
+        "value": false,
+        "fxActive": true
+      },
+      "collapsable": true
+    },
+    "styles": {
+      "textColor": {
+        "value": "var(--cc-secondary-brand)",
+        "isDefault": false
+      },
+      "iconColor": {
+        "value": "var(--cc-warning-systemStatus)",
+        "isDefault": false
+      },
+      "backgroundColor": {
+        "value": "var(--cc-tertiary-brand)",
+        "isDefault": false
+      },
+      "borderColor": {
+        "value": "var(--cc-default-icon)",
+        "isDefault": false
+      },
+      "pillHoverBackgroundColor": {
+        "value": "var(--cc-success-systemStatus)",
+        "isDefault": false
+      },
+      "selectedIconColor": {
+        "value": "var(--cc-error-systemStatus)",
+        "isDefault": false
+      }
     }
   },
   "showViewerNavigation": true,
   "homePageId": "a6d541ff-8b06-4cec-8fef-a158a7dd74cf",
-  "versionType": "version",
+  "versionType": "branch",
   "appId": "50c1b2ef-6fcb-4191-ae21-d65904a416b0",
   "currentEnvironmentId": "25d8271a-24f5-4bab-8f8a-c5bd12d7bb5e",
   "promotedFrom": null,
-  "status": "PUBLISHED",
+  "status": "DRAFT",
   "description": null,
   "publishedAt": null,
   "releasedAt": null
