@@ -1,0 +1,17 @@
+{
+  "id": "c7c6303a-a112-4a83-bc32-bbc15fe6c18d",
+  "name": "elio",
+  "type": "front-end",
+  "slug": "c7c6303a-a112-4a83-bc32-bbc15fe6c18d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-18T13:33:42.215Z",
+  "organizationId": "cb7d184e-9c62-4202-868e-59ef0703e740",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.20.93-ee-lts"
+}
