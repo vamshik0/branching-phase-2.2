@@ -1,0 +1,16 @@
+{
+  "id": "9f7a5120-d51a-4694-bbab-b8253db9f2bb",
+  "name": "workflows1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "params": [
+      {
+        "key": "",
+        "value": ""
+      }
+    ]
+  },
+  "dataSourceId": "9bda0c88-59cc-42e2-bfc3-6416aae39ac0",
+  "appVersionId": "a8e50bdd-b2ad-4815-86f5-e3a3358e5c33"
+}
