@@ -44,24 +44,17 @@
     "loadingState": {
       "value": "{{false}}"
     },
-    "disabledState": {
-      "value": "{{false}}"
-    },
-    "visibility": {
-      "value": "{{true}}"
-    },
     "textSize": {
       "value": 14
     },
     "textColor": {
       "value": "var(--cc-primary-text)"
-    }
-  },
-  "generalStyles": {
+    },
     "boxShadow": {
       "value": "0px 0px 0px 0px #00000040"
     }
   },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
