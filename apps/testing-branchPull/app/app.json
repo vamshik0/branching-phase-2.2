@@ -1,0 +1,17 @@
+{
+  "id": "96aec8e9-b943-4b3c-9141-414122a792d3",
+  "name": "testing-branchPull",
+  "type": "front-end",
+  "slug": "96aec8e9-b943-4b3c-9141-414122a792d3",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-19T06:01:53.501Z",
+  "organizationId": "1890ff53-6548-418d-be04-633de2dc9312",
+  "userId": "37d11ea4-43c8-4f3a-82c7-61133a6180af",
+  "icon": "grid",
+  "tooljetVersion": "3.20.93-ee-lts"
+}
