@@ -1,0 +1,65 @@
+{
+  "id": "5a534515-00e3-478d-8de9-ace71bd276bc",
+  "table_name": "students",
+  "schema": {
+    "columns": [
+      {
+        "column_name": "id",
+        "data_type": "integer",
+        "column_default": "nextval(\"workspace_cb7d184e-9c62-4202-868e-59ef0703e740\".\"5a534515-00e3-478d-8de9-ace71bd276bc_id_seq\"",
+        "character_maximum_length": null,
+        "numeric_precision": 32,
+        "constraints_type": {
+          "is_not_null": true,
+          "is_primary_key": true,
+          "is_unique": false
+        },
+        "keytype": "PRIMARY KEY",
+        "configurations": {}
+      },
+      {
+        "column_name": "name",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "email",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "std",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      }
+    ],
+    "foreign_keys": []
+  }
+}
