@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "testing-branchPull",
+  "appCoRelationId": "96aec8e9-b943-4b3c-9141-414122a792d3",
+  "gitAppId": "980e5490-a31a-404c-8834-c74267f9503e",
+  "branchName": "main",
+  "gitVersionName": "v1",
+  "gitVersionId": "afb73c97-b71f-4f7a-8432-466a3421a2ea",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-19T06:06:24.354Z",
+  "updatedAt": "2026-02-19T06:06:24.354Z"
+}
