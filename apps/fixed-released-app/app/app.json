@@ -3,7 +3,7 @@
   "name": "fixed-released-app",
   "type": "front-end",
   "slug": "7fb87ada-a321-4ccb-9e4e-2a15ad2e79b8",
-  "isPublic": true,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
